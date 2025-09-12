@@ -1,0 +1,711 @@
+﻿id,question,A,B,C,D,answer,topic,question_type
+87,The equation of an alternating electromotive force is E = 220 sin 314 t. What is the root mean square value of the electromotive force?,140.14 V,155.54 V,311.17 V,345.36 V,B,Alternating Current,Mathematical
+454,How is it possible to make 10W power into 20W using a transformer?,by doubling the number of turns in both coils,by doubling the number of turns in the primary coil,by doubling the number of turns in the secondary coil,not possible in any way,D,Alternating Current,Reasoning
+2288,A capacitor has a capacitance of 6 μF and a frequency of 45 Hz. What is the capacitive reactance?,589.05 Ohm,294.52 Ohm,1178.1 Ohm,147.26 Ohm,B,Alternating Current,Mathematical
+2338,An inductor has an inductance of 12 H and a frequency of 130 Hz. What is the reactance?,9822.17 ohm,4911.08 ohm,2455.54 ohm,1227.77 ohm,B,Alternating Current,Mathematical
+1108,After what time interval does the alternating current used in our homes assume the same value?,0.25s,0.03 s,0.5s,0.02 s,D,Alternating Current,Theoretical
+3031,What is the formula for determining the effective value of AC voltage?,E₀/√2,E₀×√2,E₀²/2,E₀²×2,A,Alternating Current,Theoretical
+2277,An inductor has an inductance of 5 H and a frequency of 80 Hz. What is the reactance?,2513.27 Ohm,1256.63 Ohm,628.32 Ohm,314.16 Ohm,A,Alternating Current,Mathematical
+2350,A capacitor has a capacitance of 25 μF and a frequency of 50 Hz. What is the capacitive reactance?,127.32 ohm,254.64 ohm,381.96 ohm,63.66 ohm,A,Alternating Current,Mathematical
+887,The number of turns in the primary coil of a transformer is 50 and the voltage is 200V; If the number of turns in its secondary coil is 100; what is the voltage?,200 V,300 V,400 V,450 V,C,Alternating Current,Mathematical
+3407,The average value of alternating current for a full cycle is ----,½ Ipeak,1/√2 Ipeak,0,1/π Ipeak,C,Alternating Current,Theoretical
+2339,A capacitor has a capacitance of 20 μF and a frequency of 40 Hz. What is the capacitive reactance?,198.94 ohm,397.88 ohm,398.94 ohm,397.11 ohm,A,Alternating Current,Mathematical
+2613,For an ideal transformer -,Ep/Es= np/ns,Ep/Es= ns/np,A and B,,B,Alternating Current,Theoretical
+22,If a star's mass is between 2 to 3 solar masses; what will be its final fate?,White dwarf,Black dwarf,Neutron star,Black hole,C,Astronomy,Theoretical
+1376,If the mass of a star at the beginning of its death phase is more than 1.4 times the solar mass; it can in no way become a white dwarf. What is this mass limit called?,Newton limit,Einstein limit,Chandrasekhar limit,Schwarzschild radius,C,Astronomy,Definition
+1194,What is the boundary of a black hole region called?,Schwarzschild radius,Nebula,Event horizon,White dwarf,C,Astronomy,Definition
+33,How many billion years ago was the universe created?,14.7,13.7,16.7,18.7,B,Astronomy,Theoretical
+555,The expansion of the universe is understood from-,From Red shift,From Blue shift,From the mass of the Sun,From gravitational acceleration,A,Astronomy,Theoretical
+2225,What is the charge of an electron in Coulombs?,1.6 x 10^-19,1.6 x 10^-18,1.6 x 10^-20,1.6 x 10^-17,A,Atomic Physics,Definition
+2072,In which unit is the diameter of an atom measured?,Fermi,X-unit,mm,Angstrom,D,Atomic Physics,Definition
+2907,If the wavelength of radiation emitted from an atom is 3315×10⁻¹⁰ m; what is the energy difference?,3.75 eV,2.75 eV,6.75 eV,None of these,A,Atomic Physics,Mathematical
+1640,What does the principal quantum number indicate?,Energy level,Shape of the orbit,Direction of the orbit,Spin of the electron,A,Atomic Physics,Theoretical
+1779,What is the energy of an electron when it is in the first orbit of a hydrogen atom?,13.6 eV,12.6 eV,14.6 eV,11.6 eV,A,Atomic Physics,Theoretical
+1865,What does the orbital quantum number indicate?,Shape of the orbital,Energy level,Spin,Magnetic field,A,Atomic Physics,Theoretical
+1645,What does the spectrum of a hydrogen atom indicate?,Transition of energy levels,Speed of the electron,Speed of the proton,Speed of the neutron,A,Atomic Physics,Theoretical
+1866,What does the magnetic quantum number indicate?,Orientation of the orbital,Energy level,Spin,Angular momentum,A,Atomic Physics,Theoretical
+707,What is the mass of an electron in grams?,2.6 x 10-19,9.1 x 10-31,9.1 x 10-19,9.1 x 10-28,D,Atomic Physics,Theoretical
+1864,What does the principal quantum number indicate?,Energy level,Spin,Angular momentum,Magnetic field,A,Atomic Physics,Theoretical
+1641,What does the orbital quantum number indicate?,Shape of the orbit,Energy level,Direction of the orbit,Spin of the electron,A,Atomic Physics,Theoretical
+3302,What does ISP stand for?,Internet Social Privilege,Internet Social Public,Internet Service Privilege,Internet Service Provider,D,Communication Systems,Definition
+201,A galvanometer with a resistance of 100Ω can safely accept 10mA of current; To measure a current of 10A; what resistance shunt is needed?,1.000Ω,0.1001Ω,0.200Ω,0.001Ω,B,Current Electricity,Mathematical
+2988,If a 40W bulb is on for 40 minutes; what is the electricity consumption in units?,0.96,9.6,96,0.0096,A,Current Electricity,Mathematical
+1046,Which capacitor is used only in direct current?,Electrolytic capacitor,Variable capacitor,Paper capacitor,Mica capacitor,A,Current Electricity,Application
+2981,An electrical appliance is rated 50W–220V. What is the resistance of the appliance?,10000,9602,9682,9002,C,Current Electricity,Mathematical
+2073,What is the unit of resistance?,Joule,Coulomb,Ohm,Volt,C,Current Electricity,Definition
+2017,In Ohm's law; in which case does the ratio of V and I remain constant?,In an ohmic conductor,In a superconductor,In a semiconductor,In a diode,A,Current Electricity,Theoretical
+310,On what principle is the Post Office Box made?,Joule's law,Wheatstone bridge principle,Ohm's law,Potential drop method,B,Current Electricity,Application
+1379,The ratio of the lengths of two copper wires is 1:2 and the ratio of their cross-sectional areas is 4:1. What is the ratio of their specific resistances?,1:08,2:01,1:02,1:01,D,Current Electricity,Reasoning
+1189,A 4Ω resistance and a 6Ω resistance are connected in the two gaps of a meter bridge.,10 cm,40 cm,60 cm,90 cm,C,Current Electricity,Experimental
+2729,If the length of three wires of a 5Ω resistor is doubled; what will be their resistance?,25Ω,15Ω,50Ω,45Ω,D,Current Electricity,Reasoning
+2970,If the resistance of an EMF source is R; what is the formula for resistance?,V/I,R/I,V/R,I/V,A,Current Electricity,Definition
+2757,A 100Ω galvanometer can safely take a current of 10mA; what resistance shunt will be needed to measure a 10A current?,0.4Ω,0.3Ω,0.2Ω,0.1Ω,D,Current Electricity,Mathematical
+2726,The resistance of a conductor is 6Ω. If its length is doubled; what will be the new resistance?,18,32,36,54,D,Current Electricity,Reasoning
+1145,The diameter of a wire is 1 mm and its specific resistance is 48 × 10-8 ohm-m. If the diameter of the wire is doubled; what will be the specific resistance?,48 × 10-8 ohm-m,24 × 10-8 ohm-m,12 × 10-8 ohm-m,6 × 10-8 ohm-m,A,Current Electricity,Reasoning
+2964,If the area is 0.2 mm² and length is 2mm; what is the current density J on a 1mm surface?,2×10⁴ Am²,2×10⁶ Am²,2×10² Am²,2×10⁵ Am²,B,Current Electricity,Mathematical
+2753,What is the value of a resistor to be used with a 5A current flow?,1000Ω,20Ω,500Ω,5000Ω,B,Current Electricity,Mathematical
+2980,If a 100Ω resistor is connected to 1000V; what will be the power loss?,402,1202,1200,1002,C,Current Electricity,Mathematical
+401,If a load consumes 200 watts of power when connected to a 100V power transmission line; how much power will it consume if connected to a 200V power transmission line?,100 w,200 w,400 w,800 w,D,Current Electricity,Mathematical
+743,A 70 W bulb burns for 8 min; how much electrical energy is consumed?,1800 J,16000 J,33600 J,30000 J,C,Current Electricity,Mathematical
+2972,What is the unit of Chemical Equivalent?,KG/SEC,Kg/Amp,Kg/C,amp,A,Current Electricity,Definition
+1664,What does the electric current in a closed loop depend on?,Voltage and resistance,Mass and resistance,Energy and resistance,Pressure and resistance,A,Current Electricity,Theoretical
+3457,The resistance of a cylindrical wire is 2Ω. Both its length and diameter are halved. Now its resistance will be-,1Ω,8Ω,4Ω,0.5Ω,C,Current Electricity,Mathematical
+3466,Which are Kirchhoff's laws?,ΣI=0 and ΣIR=0,ΣIR=0 and ΣR=ΣE,ΣI=0 and ΣIR=ΣE,ΣR=0 and ΣI=0,C,Current Electricity,Theoretical
+2986,If a bulb is 60W at 220V; what is its resistance?,806Ω,860Ω,808Ω,609Ω,B,Current Electricity,Mathematical
+2733,A wire has a length of 2m and a diameter of 5mm. If the resistance of the wire is doubled and its diameter is halved; what will happen to its specific resistance?,Specific resistance will decrease,Specific resistance will remain the same,Specific resistance will be doubled,Specific resistance will be quadrupled,B,Current Electricity,Reasoning
+1753,Which is used in a DC circuit?,Resistor,Capacitor,Inductor,Both B and C,A,Current Electricity,Theoretical
+609,How are an ammeter and a voltmeter connected in an electric circuit?,In series,In parallel,In parallel and in series,In series and in parallel,D,Current Electricity,Experimental
+526,If 1 coulomb of charge flows through a conductor per second; what is it called?,Volt,Ohm,Ampere,Watt,C,Current Electricity,Definition
+2961,What is the actual range of resistance for a 220Ω resistor with a tolerance of ±10%?,200–220Ω,220–240Ω,198–242Ω,109–231Ω,C,Current Electricity,Mathematical
+380,To increase the range of a voltmeter; a resistor is connected in -,parallel,series,both,none,B,Current Electricity,Application
+862,For which of the following is the temperature coefficient of resistance; α; positive?,Silicon,Aluminium,Carbon,Thermistor,B,Current Electricity,Theoretical
+2657,What causes heat to be generated when electric current flows through a conductor?,Magnetic effect,Electric potential,Collision,None of these,C,Current Electricity,Reasoning
+2743,By which process is heat generated when an electric current flows for a specific time?,Evaporation,Air absorption,Equilibrium,Electrical equilibrium,D,Current Electricity,Theoretical
+1612,What does resistance depend on?,Length and cross-sectional area,Mass,Temperature,Speed,A,Current Electricity,Theoretical
+1084,A house's main meter is marked 15 Amp - 220 Volt. How many 100-watt bulbs can be used safely in that house?,15,33,6,14,B,Current Electricity,Application
+2995,If a bulb is 60W at 220V; what is its resistance?,806Ω,860Ω,808Ω,609Ω,B,Current Electricity,Mathematical
+2758,A 100Ω galvanometer is connected with a 5Ω shunt and then connected to a circuit; a current of 0.42A is found through the galvanometer; what is the total current?,8.82 A,2.88 A,88.2 A,28.8 A,A,Current Electricity,Mathematical
+2737,If the length of a wire is doubled and its radius is halved; how many times will its resistance increase?,2,4,8,R/2,B,Current Electricity,Reasoning
+1621,What is the characteristic of DC current?,Fixed direction and magnitude,Periodic change,Unstable direction,Zero value,A,Current Electricity,Theoretical
+1367,What resistance shunt should be connected to a 20Ω galvanometer so that 1% of the total current passes through the galvanometer?,0.25 Ω,2.0 Ω,0.2 Ω,0.02 Ω,C,Current Electricity,Mathematical
+1721,What is Ohm's law?,V = IR,V = I/R,V = R/I,I = VR,A,Current Electricity,Definition
+2993,If a 1000W electric stove at 240V runs for 15 minutes; how many units of electrical energy will be consumed?,0.12,0.24,0.48,0.36,B,Current Electricity,Mathematical
+937,A wire of resistance 3Ω is bent into the shape of an equilateral triangle. What will be the value of the resistance between the ends of one of its sides?,`2/3 Ω`,`3/2 Ω`,1Ω,`7/2 Ω`,A,Current Electricity,Mathematical
+36,The current in a coil is 2A. If the current is reduced to zero in 0.08s; an EMF of 0.5V is induced in the coil. What is the self-inductance of the coil?,0.02 henry,0.2 henry,2 henry,20 henry,A,Electromagnetic Induction,Mathematical
+229,In a circuit with 10Ω resistance; if the expression for the change in magnetic flux is φ = (6t2– 5t+ 1) Wb; the induced current at t= 0.25 s will be—,1.2 A,0.8 A,0.6 A,0.2 A,D,Electromagnetic Induction,Mathematical
+1750,What does an inductor store?,Magnetic energy,Electrical energy,Kinetic energy,Heat energy,A,Electromagnetic Induction,Theoretical
+583,A coil has 400 turns and its self-inductance is 8 mH. If the number of turns is doubled; the magnetic flux linkage will be-,4 times,2 times,3/4 times,1/2 times,A,Electromagnetic Induction,Mathematical
+1003,What is the electromagnetic induction that occurs in the secondary coil due to the uneven current flow in the primary circuit called?,Mutual induction,Coefficient of mutual induction,Self-induction,Coefficient of self-induction,A,Electromagnetic Induction,Definition
+3013,What type of voltage is generated when a coil rotates in a magnetic field?,DC,AC,Constant,,B,Electromagnetic Induction,Theoretical
+1811,What is the formula for energy stored in an inductor?,½LI²,LI²,½L/I²,L/I,A,Electromagnetic Induction,Definition
+1436,Which device works on the principle of induction?,Motor,Transformer,Generator,Transistor,B,Electromagnetic Induction,Application
+2579,The device used to convert mechanical energy into electrical energy is called-,Dynamo,Galvanometer,Potentiometer,Electric meter,A,Electromagnetic Induction,Definition
+538,1H is equal to what?,1 VA-1S-1,1 AS-1V-1n,1 ASV-1,1 VSA-1,D,Electromagnetic Induction,Definition
+3033,What should be the efficiency η of a transformer for no energy loss?,100%,50%,25%,0%,A,Electromagnetic Induction,Theoretical
+157,If the flux in a coil with 50 turns changes by 10-3 Wb in 0.01 sec; what is the magnitude of the induced electromotive force created in the coil?,1 V,5 V,10 V,None of these,B,Electromagnetic Induction,Mathematical
+3061,If the wavelength of a gamma ray is 4×10⁻¹² m; what is its frequency?,7.5×10¹⁹ Hz,2.25×10¹⁹ Hz,1.25×10¹⁸ Hz,4.4×10¹⁹ Hz,A,Electromagnetic Waves,Mathematical
+1492,Which is not an electromagnetic wave?,Radio Wave,Microwave,X-ray,Ultrasound,D,Electromagnetic Waves,Theoretical
+1634,What kind of wave is an electromagnetic wave?,Transverse wave,Longitudinal wave,Mechanical wave,Standing wave,A,Electromagnetic Waves,Definition
+2627,What is the speed of light in a vacuum?,3 × 10^6 m/s,3 × 10^7 m/s,3 × 10^8 m/s,3 × 10^9 m/s,C,Electromagnetic Waves,Theoretical
+2605,Which of the following rays is used to relieve body aches and pains?,Beta ray,Ultraviolet ray,Infrared ray,X-ray,C,Electromagnetic Waves,Application
+3399,Which of the following electromagnetic radiations has the longest wavelength?,Gamma,Infrared,Ultraviolet,X-ray,B,Electromagnetic Waves,Theoretical
+489,Which is a characteristic of the Poynting vector?,Unit is Wm−1,It is a vector quantity,→S=→H×→ES→=H→×E→,→S=1μ0→B×→ES→=1μ0B→×E→,B,Electromagnetic Waves,Theoretical
+917,If the speed of light in a vacuum is c; which of the following is correct?,`c = sqrt(ε_0μ_0)`,`c = 1/sqrt(ε_0μ_0)`,`c = sqrt(ε_0/μ_0)`,`c = sqrt(μ_0/ε_0)`,B,Electromagnetic Waves,Theoretical
+577,Light is a-,wave,electromagnetic wave,transverse wave,all of the above,D,Electromagnetic Waves,Theoretical
+2712,If the area of the parallel plates is 1.4 m² and the thickness of the air between them is 0.03 m; what will be the capacitance?,4.13×10⁻¹⁰ μF,4.31×10⁻¹⁰ μF,5.13×10⁻¹⁰ μF,5.31×10⁻¹⁰ μF,A,Electrostatics,Mathematical
+832,A parallel plate capacitor is charged such that the potential difference between the plates is V. What should be the potential difference for the stored energy in the capacitor to become double?,√2 V,V/√2,2/V ,2V ,A,Electrostatics,Mathematical
+2689,What is the potential difference between two points separated by 15.8 cm in an electric field of strength 1.34×10⁵ NC⁻¹?,2.12×10⁴ V,2.12×10⁻⁴ V,1.12×10⁴ V,1.12×10⁻⁴ V,A,Electrostatics,Mathematical
+816,The angle between electric field vector â†’E and electric potential surface is-,0°,45°,90°,180°,C,Electrostatics,Theoretical
+2719,Three capacitors of equal capacitance are first connected in series and then in parallel. What is the ratio of the series equivalent capacitance to the parallel equivalent capacitance?,1:04,1:06,1:09,1:12,C,Electrostatics,Mathematical
+2958,What happens to the potential inside a charged sphere?,Increases,Decreases,Remains unchanged,Becomes zero,C,Electrostatics,Theoretical
+2990,Which physical quantity has the unit C.V?,Work,Power,Energy,Voltage,A,Electrostatics,Theoretical
+1208,The distance between two positive charges placed in air is 5 cm and the repulsive force between them is 8 dyne. If one charge is double the other; what is the value of the smaller charge?,10 e.s.u,20 e.s.u,30 e.s.u,40 e.s.u,A,Electrostatics,Mathematical
+2586,The area of each plate of a parallel plate capacitor is 0.04 m². The distance between the plates is 0.002 m and the potential difference is 60V. What is the potential energy stored per unit volume of the capacitor in joules?,3.18 × 10^-7,2.52,0.004,251.57,D,Electrostatics,Mathematical
+1365,On which surface of a charged object is the charge most concentrated?,Concave,Convex,Bottom surface,Top surface,B,Electrostatics,Theoretical
+372,Which of the following is not a characteristic of electrostatic force?,Dependent on the medium,Weak force,Conservative force,Work done is not dependent on the path,C,Electrostatics,Theoretical
+2950,What is the formula for the capacitance C of a parallel plate capacitor?,εA/d,εd/A,ε/A,εd,C,Electrostatics,Definition
+2707,What will be the velocity of a particle with mass m and charge e when accelerated by a potential difference V?,√(2eV/m),2eV/m,√(eV/m),eV/m,A,Electrostatics,Mathematical
+1110,What is the mechanical arrangement for storing energy as charge by placing an insulating medium between two nearby conductors called?,Electric cell,Capacitor,Generator,IPS,B,Electrostatics,Definition
+1747,What does Coulomb's law explain?,Interaction of electric charges,Motion,Acceleration,Energy,A,Electrostatics,Theoretical
+2156,An electric charge is 45 µC and the field is 7 N/C. What is the force?,315 µN,300 µN,350 µN,375 µN,A,Electrostatics,Mathematical
+636,When a dielectric substance is inserted between the two plates of a parallel plate capacitor; its stored energy increases five times; The value of the dielectric constant of that substance is-,10,12,5,25,C,Electrostatics,Mathematical
+2678,What will be the Coulombic attraction force between two neutrons and two protons if the distance between them is 4×10⁻¹⁵ m?,100 N,14.4 N,11.8 N,12 N,B,Electrostatics,Mathematical
+1854,What does the capacitance of a capacitor depend on?,Area and distance of the plates,Mass of the plates,Density of the plates,Pressure of the plates,A,Electrostatics,Theoretical
+2645,If an electron is given an energy of 1.6 × 10^-19 J; what will be the potential difference?,1 V,2 V,3 V,4 V,A,Electrostatics,Mathematical
+442,If the electric field intensity is zero; the potential at that point will be-,Constant,Not constant,Infinite,Indeterminate,A,Electrostatics,Theoretical
+374,In a uniform electric field; if the potential difference between two points 50 cm apart is 200V; what is the intensity of the electric field?,200Vm?¹,300Vm?¹,400Vm?¹,500Vm?¹,C,Electrostatics,Mathematical
+855,The permittivity of free space ϵo=?,8.85×10−12coul2N−1m−2,8.85×1012coul2N−1m−2,4π×107NA−2,8π×10−7NA−2,A,Electrostatics,Definition
+432,What is the work done to move a 12 Coulomb charge from one place to another if the potential difference is 500 volts?,4×1010 erg,7×1010 erg,6×1010 erg,5×1010 erg,C,Electrostatics,Mathematical
+306,Two pith balls; each of mass 10?4kg; are hung from the same point by silk threads. When they repel each other and reach equilibrium; what angle will each ball make with the vertical? [ The charge of each pith ball is 6×10?9C and the distance at equilibrium is 0.04 m. ],11.67o,21.48o,7.69o,15.91o,A,Electrostatics,Mathematical
+228,When two capacitors are connected in series and parallel combinations; their equivalent capacitances are 2 μF and 9 μF respectively; What are the capacitances of the two capacitors?,2 μF and 3 μF,3 μF and 4 µF,2 μF and 9 µF,3 μF and 6 μF,D,Electrostatics,Mathematical
+2146,An electric charge is 35 µC and the field is 6 N/C. What is the force?,210 µN,180 µN,240 µN,270 µN,A,Electrostatics,Mathematical
+2206,An electric charge is 90 µC and the field is 12 N/C. What is the force?,1080 µN,1000 µN,1100 µN,1200 µN,A,Electrostatics,Mathematical
+1956,If the components of an electric field E ⃗ are equal to the coordinates at point H; what is ∇ ⃗ . E ⃗ = ?,6,3,5,4,B,Electrostatics,Mathematical
+1259,The unit of electric intensity is-,Nkg-1,Ns,NC-1,Nm-1,C,Electrostatics,Theoretical
+1071,If the electric field intensity acts along the +X-axis and its magnitude is E= cx2; where c=constant; then the electric potential V is,-2cx,2cx,0,cx3/3,C,Electrostatics,Mathematical
+1262,The discoverer of the electric field is –,Michael Faraday,William Gilbert,Coulomb,Gauss,A,Electrostatics,Historical
+2945,If the capacitance of two capacitors is C each; what is the total capacitance when connected in parallel?,2C,0.5C,1/C,C/2,A,Electrostatics,Mathematical
+2681,What will be the electric force between two 1 coulomb charges placed 1 meter apart?,1 N,10⁹ N,100 N,9×10⁹ N,D,Electrostatics,Mathematical
+3018,Which motor is used for a house fan?,AC motor,DC motor,Universal motor,Stepper motor,A,Engineering Physics,Application
+1277,Which of the following temperature ranges can be measured with a thermistor?,-70°C to 300°C,-70°C-150°C,0°C-300°C,0°C-150°C,A,Experimental Physics,Application
+566,Which is not a mechanical error?,Level error,Index error,Zero error,Backlash error,B,Experimental Physics,Theoretical
+53,The circular scale of a spherometer is equally marked with 50 divisions; one full rotation of the circular scale moves the linear scale back by 0.1 cm. What is the least count?,0.02 cm,0.002 cm,0.2 cm,0.0002 cm,B,Experimental Physics,Mathematical
+540,The least count of a screw gauge is 0.01 mm. What is the minimum thickness that can be measured by it?,1 mm,0.10 mm,0.01 mm,0.001mm,C,Experimental Physics,Theoretical
+2064,What is the name of the instrument used to measure air pressure?,Thermometer,Barometer,Manometer,Seismometer,B,Experimental Physics,Definition
+30,Which of the following relationships is Stokes' law?,Frv,Frv,Frv,Fv,B,Fluid Mechanics,Definition
+224,1 atmospheric pressure (1 atm) is equal to how many mmHg?,760 mmHg,670 mmHg,76 mmHg,67 mmHg,A,Fluid Mechanics,Definition
+1714,What does Bernoulli's principle explain?,Fluid flow,Motion,Acceleration,Energy,A,Fluid Mechanics,Theoretical
+567,Why don't raindrops wet the rear glass of a moving car?,The relative velocity of the rain acts obliquely,The resultant velocity acts opposite to the car's motion,The resultant velocity acts perpendicular to the car,The resultant velocity acts parallel to the car,A,Fluid Mechanics,Reasoning
+3203,What is the formula for calculating pressure in a liquid?,P=F/A,P=F×A,P=F/A²,P=F×A²,A,Fluid Mechanics,Theoretical
+3323,If the surface tension of soap water is 3×10⁻² Nm⁻¹ and the excess pressure in a soap bubble is 4 Nm⁻²; what will its diameter be?,3×10⁻² m,2×10⁻² m,6×10⁻² m,None of these,C,Fluid Mechanics,Mathematical
+1842,On what principle does a hydraulic lift work?,Pascal's principle,Archimedes' principle,Bernoulli's principle,Newton's principle,A,Fluid Mechanics,Application
+1385,Due to which property does blotting paper absorb water?,Action of viscosity,Action of surface energy,Action of surface tension,Capillary action,C,Fluid Mechanics,Application
+3206,What is the formula for the viscosity of a liquid?,η=F/A,η=F/A×V,η=F×V/A,η=F×A/V,B,Fluid Mechanics,Theoretical
+541,The property by which a liquid opposes the relative motion between its different layers is called what of the liquid?,Viscous force,Viscosity,Coefficient of viscosity,Surface tension,B,Fluid Mechanics,Definition
+3210,What is the formula for viscosity in a liquid?,η=F×t/A,η=F×t/V,η=F×t/l,η=F×l/t,D,Fluid Mechanics,Theoretical
+169,What is the unit of the coefficient of viscosity?,Nms-1,Nm-1,N-1m-1s,Nsm-2,D,Fluid Mechanics,Definition
+1231,If the acceleration due to gravity on the Earth's surface; at a height h from the Earth's surface; and at a depth h from the Earth's surface are g; gh; and gbh respectively; then ,gbh <gh <g,gh<gbh<g,gh> gbh<g,gh<g <gbh,B,Gravitation,Comparison
+837,At what speed must a spacecraft travel at a low altitude and parallel to the Earth's surface for its passengers to feel weightlessness?(R=6400km),7.9 Kms-1,7.1 Kms-1,3.5 Kms-1,3.1 kms-1,A,Gravitation,Mathematical
+387,On a planet; the escape velocity is half the escape velocity on Earth; and its radius is also half that of the Earth. What is the value of g on that planet in m/s2?,4.9,9.8,14.7,19.6,A,Gravitation,Mathematical
+709,Where is g maximum?,At the poles,At the equator,At the center of the Earth,Far from the Earth's surface,A,Gravitation,Theoretical
+3188,If a satellite's orbital radius is 1.53 times that of the Earth; what is its time period?,365,665,391,691,D,Gravitation,Mathematical
+1242,What is the minimum velocity with which an object of mass m must be thrown upwards from the Earth's surface so that it never returns?,`sqrt(2gR)`,(√2) g R,g R,2√g R,A,Gravitation,Definition
+2013,Which force is responsible for keeping an artificial satellite stable in orbit?,The balance of gravitational force and centrifugal force,Only electric force,Pressure force,Magnetic force,A,Gravitation,Application
+3179,The value of g on the Moon is what fraction of that on Earth?,3-Jan,6-Jan,3-Feb,2-Jan,B,Gravitation,Theoretical
+2832,If the frequency of revolution from an object's axis increases; what will happen to the value of the Earth's gravitational pull?,Decreases,Increases,Stays the same,Maximum at 45°,B,Gravitation,Reasoning
+545,The unit of the gravitational constant is-,Nmkg-2,Nm-2kg-2,Nm2kg-2,Nm-2kg2,C,Gravitation,Definition
+2892,Which of the following is not true in the case of gravitational force?,Energy changes,Work done is zero,No reward is possible,None of these,B,Gravitation,Theoretical
+582,Which of the following is not a reason for the change in the value of g?,Altitude effect,Effect of diurnal rotation of the earth,Latitude effect,Effect of annual rotation of the earth,D,Gravitation,Theoretical
+1489,For which set of masses and distances is the gravitational force between them the minimum?,"3m, 2m, r","4m, 4m, 2r","m, 5m, 1.5 r","3m, 3m, 2.5 r",D,Gravitation,Comparison
+72,The diameter of Mars is 6000 km. If the value of g on its surface is 3.8 ms-2; what is the escape velocity of an object from Mars?,9.7 kms-1,4.77 kms-1,3.77 kms-1,11.2 kms-1,B,Gravitation,Mathematical
+3170,Which force is effective inside the Earth?,Gravitational force,Magnetic force,Centrifugal force,Weak nuclear force,A,Gravitation,Theoretical
+3173,If the Earth is considered a flat body; what will be the weight of a point parallel to the axis of rotation?,25,50,100,125,B,Gravitation,Theoretical
+776,If the orbital radii of two satellites are R and 4R respectively; what is the ratio of their periods?,1:16,1:08,0.086111111,16:01,B,Gravitation,Mathematical
+2831,Which is the expression for gravitational potential energy E?,E = M/r,E = M/r²,E = M/r³,E = Mm²/r,B,Gravitation,Theoretical
+2889,What is the relative strength of the gravitational force?,10³⁰,10³⁵,10³⁹,10⁴¹,C,Gravitation,Theoretical
+2837,If the altitude of the BTRC satellite is 36000 km from Earth; what is its period?,24.02 h,22.08 h,23.02 h,25.08 h,A,Gravitation,Mathematical
+370,At what depth below the Earth's surface will the value of gravitational acceleration be one-fourth of its value on the surface? (Radius of the Earth; R= 6.4 x 103 km),8.4 x 103 km,4.8 x 103 km,4.0 x 103 km,5.2 x 103 km,B,Gravitation,Mathematical
+166,If the radius of the Earth is 6×10^6m; at what height from the Earth's surface will the value of gravitational acceleration be one percent?,2.97×106m,1.97×106m,3.97×106m,None of these,D,Gravitation,Mathematical
+3334,What will be the value of acceleration due to gravity at the bottom of a mine 3×10⁶ m deep?,8 ms⁻²,6 ms⁻²,5 ms⁻²,None of these,C,Gravitation,Mathematical
+191,The relationship between the height and the orbital period of an artificial satellite is -,`h=((GMT^2)/(4pi^2))^3-R`,`h=((GMT^3)/(4pi^2))^(1/3)-R`,`h=((GM)/4)^(1/3)(T/pi)^(2/3)-R`,`h=((GMT^3)/(4pi^2))^3-R`,C,Gravitation,Theoretical
+3339,What is the time period of a geostationary satellite?,0 hr,24 hrs,12 hrs,365 days,B,Gravitation,Definition
+993,Up to what distance from an object of mass 1kg does its gravitational field extend?,1 m,0.1 m,6.673 x 10-11m,Infinite,D,Gravitation,Theoretical
+2455,A car covers a distance of 660 meters in 330 seconds. What is the average velocity?,1 m/second,2 m/second,3 m/second,4 m/second,B,Kinematics,Mathematical
+112,The ratio of the distances covered by a freely falling body in 1s; 2s; and 3s is -,1:02:03,1:04:09,1:03:09,1:03:05,B,Kinematics,Mathematical
+1974,The speed of the current in the Sunim river is 3 kmh–1; a person can row a boat at 5 kmh–1. The river is 0.5 km wide. At what angle to the current should he row to reach a specific ghat on the opposite bank in 12 min?,30°,50°,45°,59°,C,Kinematics,Application
+2483,An object is thrown at a 45° angle with a velocity of 30 m/s. What is the maximum distance?,80 meter,90 meter,100 meter,110 meter,C,Kinematics,Mathematical
+2346,An object falls from a height of 120 meters. What is its final velocity if g = 10 m/s²?,48.9 m/s,120 m/s,97.8 m/s,126.5 m/s,C,Kinematics,Mathematical
+2448,A car covers a distance of 600 meters in 300 seconds; What is the average velocity?,1 m/second,2 m/second,3 m/second,4 m/second,B,Kinematics,Mathematical
+2474,A car covers a distance of 600 meters in 200 seconds. What is the average velocity?,2 m/s,3 m/s,4 m/s,5 m/s,B,Kinematics,Mathematical
+2423,An object is thrown at an angle of 30° with a velocity of 70 m/s; What is the maximum distance? (g = 9.8 m/s²),250 meters,260 meters,270 meters,280 meters,C,Kinematics,Mathematical
+170,An object is thrown vertically upwards with a velocity of 196 ms-1; After 20 s its velocity will be—,50 ms-1,60ms-1,0ms-1,10ms-1,C,Kinematics,Mathematical
+598,If a stone is thrown horizontally from the roof of a building with a velocity of 10 ms-1; its velocity after 10 sec will be -,100 ms-1,98.50ms-1,90ms-1,10ms-1,B,Kinematics,Mathematical
+2441,An object is thrown at an angle of 60° with a velocity of 80 m/s; What is the maximum height? (g = 9.8 m/s²),100 meters,105 meters,110 meters,115 meters,C,Kinematics,Mathematical
+2877,The equation for the time of flight of a projectile is —,T=2v₀sinθ/g,T=v₀cosθ/g,T=v₀sinθ/g,T=2v₀cosθ/g,A,Kinematics,Definition
+3096,What is the maximum height a body can reach if its initial velocity is 16 m/s?,16,8,4,32,A,Kinematics,Mathematical
+2632,A car runs for 10 seconds at a speed of 20 m/s. What distance will it cover?,100 m,150 m,200 m,250 m,C,Kinematics,Mathematical
+2381,An object is thrown at an angle of 50° with a velocity of 20 m/s. What is the maximum height? (g = 9.8 m/s²),15 meters,16 meters,17 meters,18 meters,C,Kinematics,Mathematical
+1403,The area under the velocity vs time graph represents,Acceleration,Speed,Change of velocity,Magnitude of displacement,D,Kinematics,Graphical
+2466,A car's velocity increases from 0 to 20 meter/second in 10 seconds. What is the acceleration?,1 m/s²,2 m/s²,3 m/s²,4 m/s²,B,Kinematics,Mathematical
+248,A stationary object is falling from a height of 4.9m; Due to air flow; the object touches the ground at a horizontal distance of 1 m; What is the horizontal velocity of the air?,0.5,1,2,9.8,B,Kinematics,Mathematical
+2172,An object falls from a height of 50 meters (g = 10 m/s²). What is the maximum speed?,31.62 m/s,30 m/s,35 m/s,40 m/s,A,Kinematics,Mathematical
+477,A ball is dropped from a height of 45 m; Another ball is thrown upwards at the same time with a velocity of 30 m/s; Where will they meet?,40 m,45 m,33.98 m,30 m,C,Kinematics,Mathematical
+3108,How long does it take for a car to travel 50 m with an acceleration of 20 m/s²,20 m/s,30 m/s,40 m/s,50 m/s,D,Kinematics,Mathematical
+368,The equation expressing the position y of an object as a function of time t is y = 2 + 10t + 4t2. What is the acceleration of the object?,18 ms-2,16 ms-2,8ms-2,2ms-2,C,Kinematics,Mathematical
+2356,A stone falls from a height of 50 meters. What is the time of fall? (g = 9.8 m/s²),3.19 seconds,3.20 seconds,3.21 seconds,3.22 seconds,A,Kinematics,Mathematical
+2403,A stone falls from a height of 70 meters; What is the time of fall? (g = 9.8 m/s²),3.77 seconds,3.78 seconds,3.79 seconds,3.80 seconds,B,Kinematics,Mathematical
+742,If S = 1/3 t^3 + 3t; an object moves in a straight line; what is its velocity after 4 s?,9,15,19,26,C,Kinematics,Mathematical
+2364,An object is thrown at an angle of 30° with a velocity of 15 m/s. What is the maximum height? (g = 9.8 m/s²),10.2 meters,11.4 meters,12.6 meters,13.8 meters,B,Kinematics,Mathematical
+3436,A stone is thrown upwards with an initial velocity of 30 m/s. The time it will take for the stone to reach its maximum height is:,0.326 sec,3.26 sec,30.6 sec,3.06 sec,D,Kinematics,Mathematical
+3141,At what angle of projection is the maximum range obtained?,45°,90°,120°,180°,A,Kinematics,Theoretical
+205,A person was running on a flat road with a speed equal to the speed of vertically falling rain; To protect himself from the rain; at what angle with the vertical must he hold his umbrella?,45°,120°,90°,60°,A,Kinematics,Mathematical
+2419,A car covers a distance of 400 meters in 200 seconds; What is the average velocity?,1 m/second,2 m/second,3 m/second,4 m/second,B,Kinematics,Mathematical
+2447,A stone falls from a height of 130 meters; What is the time of fall? (g = 9.8 m/s²),5.15 seconds,5.16 seconds,5.17 seconds,5.18 seconds,B,Kinematics,Mathematical
+2175,The acceleration of an object is 9 m/s² and the time is 11 seconds. If the initial velocity is 0; what is the final velocity?,99 m/s,90 m/s,100 m/s,110 m/s,A,Kinematics,Mathematical
+2397,An object is thrown at an angle of 45° with a velocity of 30 m/s. What is the maximum height? (g = 9.8 m/s²),20 meters,25 meters,30 meters,35 meters,B,Kinematics,Mathematical
+2565,If a small object is thrown vertically upwards with a velocity of 9.1 ms^-1; after how much time will it return to the ground?,3.453 s,1.878 s,2.433 s,4.293 s,D,Kinematics,Mathematical
+2878,At what angle should a projectile be launched to cover the maximum distance?,45°,0°,90°,60°,A,Kinematics,Theoretical
+509,A bullet from a gun loses half its velocity after penetrating 1m into a wall. How much further will the bullet penetrate into the wall?,A. 1/3 m,B. 2/3m,C. 1/4m,D. 1/8 m,A,Kinematics,Mathematical
+2111,What is the velocity of an object if it travels 10 meters in 1 second?,10 m/s,5 m/s,15 m/s,20 m/s,A,Kinematics,Mathematical
+328,An object starting from rest travels a distance of 187.5 m in 5s; what is the acceleration of the object?,5 ms -2,25 ms-2,15 ms-2,7.5 ms-2,C,Kinematics,Mathematical
+1907,A person first goes 3 m south on a plane. What is the difference in m between the distance he traveled and his displacement?,2,4,1,5,D,Kinematics,Reasoning
+2383,Water falls from a water tank from a height of 60 meters. What is the velocity? (g = 9.8 m/s²),30 meter/second,31 meter/second,32 meter/second,33 meter/second,C,Kinematics,Mathematical
+2462,A car covers a distance of 50 meters in 10 seconds. What is the average velocity?,4 m/s,5 m/s,6 m/s,7 m/s,B,Kinematics,Mathematical
+2436,Water falls from a water tank from a height of 170 meters; What is the velocity? (g = 9.8 m/s²),57 m/second,58 m/second,59 m/second,60 m/second,C,Kinematics,Mathematical
+3117,How much distance will a car traveling at 72 Km/h cover after suddenly applying the brakes?,500 m,400 m,300 m,100 m,B,Kinematics,Mathematical
+2443,Water falls from a water tank from a height of 180 meters; What is the velocity? (g = 9.8 m/s²),59 m/second,60 m/second,61 m/second,62 m/second,B,Kinematics,Mathematical
+945,If an object is thrown vertically upwards from the ground and it remains in the air for 10s; how much time will it take to reach the highest point?,5s,4s,7s,6s,A,Kinematics,Reasoning
+1341,An object has an initial velocity of 3ˆi+4ˆj3i^+4j^ and an acceleration of 0.4ˆi+0.3ˆj0.4i^+0.3j^. What will be its speed after 10 seconds?,10,7,7√ 2,10√ 2,C,Kinematics,Mathematical
+255,An object is thrown at a velocity of 40ms-1 at an angle of 60° with the horizontal; how many seconds will it take for the object to reach its maximum height?,5.33,3.53,3.35,1.5,B,Kinematics,Mathematical
+1394,A boy throws a ball at a speed of 40 m/s at an angle of 30° with the horizontal. How many meters away will the ball land on the ground?,141,71,138,61,A,Kinematics,Mathematical
+2485,How long will it take for a stone to fall from a height of 100 meters?,4.4 seconds,4.5 seconds,4.6 seconds,4.7 seconds,B,Kinematics,Mathematical
+2473,How long will it take for a stone to fall from a height of 60 meters?,3.49 seconds,3.50 seconds,3.51 seconds,3.52 seconds,B,Kinematics,Mathematical
+2437,An object is thrown at an angle of 50° with a velocity of 90 m/s; What is the maximum distance? (g = 9.8 m/s²),400 meters,410 meters,420 meters,430 meters,C,Kinematics,Mathematical
+606,If the volume of a gas is 52L at a pressure of 9×10^4 kPa and a temperature of 330oC; what will be its volume at a temperature of 250oC and a pressure of 3×104kPa?,155.6L,135.3L,275L,55.57L,B,Kinetic Theory,Mathematical
+1450,At a constant temperature; which parameter is constant for all gas molecules?,mass,kinetic energy,volume,velocity,B,Kinetic Theory,Theoretical
+1800,What is the ideal gas equation?,PV = nRT,PV = n/RT,PV = RT/n,P = nRT/V,A,Kinetic Theory,Definition
+3259,What does R represent in the gas equation of state PV=RT?,Gas constant,Internal energy,Pressure constant,Thermal work,A,Kinetic Theory,Definition
+184,What is the distance between two successive collisions of a molecule called?,Critical path,Path of travel,Mean free path,Critical path,C,Kinetic Theory,Definition
+1344,Who first explained the gas laws using the kinetic theory of gases?,Clausius,Maxwell,Bernoulli,Boltzmann,C,Kinetic Theory,Historical
+2558,The kinetic energy of a gas molecule at 27°C is 6.21×10^-21 J. At 227°C; the average kinetic energy will be:,11.35×10^-21 J,9.35×10^-21 J,12.35×10^-21 J,10.35×10^-21 J,B,Kinetic Theory,Mathematical
+3278,Under which of the following conditions do gases behave most like an ideal gas?,At all conditions of pressure and temperature,At very high pressure,When the gas temperature is near normal,At low pressure when the gas particles are far from each other,D,Kinetic Theory,Theoretical
+1085,If the number of degrees of freedom of a particle is 5; the energy is,kT/2,kT,3kT/2,5kT/2,D,Kinetic Theory,Theoretical
+2301,The pressure of a gas is 9 x 10^5 Pascal and the temperature is 900 K. What is its density if the molar mass is 54 g/mol?,5.4 kg/m³,2.7 kg/m³,10.8 kg/m³,1.35 kg/m³,A,Kinetic Theory,Mathematical
+2281,The pressure of a gas is 7 x 10^5 Pascal and the temperature is 700 K. What is its density if the molar mass is 46 g/mol?,4.63 kg/m³,2.31 kg/m³,9.26 kg/m³,1.15 kg/m³,A,Kinetic Theory,Mathematical
+3245,If the velocity of a gas molecule is V; what is the formula for the root mean square velocity?,V=√(3RT/M),V=√(2RT/M),V=√(RT/M),V=√(P/ρ),A,Kinetic Theory,Theoretical
+335,Which of the following relationships exists among the root mean square velocity; average velocity; and most probable velocity?,Crms < Cav > Cm,Crms > Cav< Cm,Crms> Cav > Cm,Cm < Crms > Cav,C,Kinetic Theory,Comparison
+3266,Which is the ideal gas law?,PV=nRT,BV=nC²,PV=1/3 mNc²,DPV=P₁V₁,A,Kinetic Theory,Definition
+3268,In the case of an ideal gas at temperature T; what is the average kinetic energy of a molecule?,2/3 kT,3/2 kT²,3/2 kT⁴,3/2 kT,A,Kinetic Theory,Theoretical
+338,A container has 3 moles of nitrogen and 5 moles of argon at a temperature of 500K. The total internal energy of the gas mixture is-,83140J,62355J,49884J,16628J,B,Kinetic Theory,Mathematical
+3246,If the root mean square velocity of a gas is 1.5 km/s at 0°C; what will it be at 273°C?,2.73 km/s,3.0 km/s,2.12 km/s,3.5 km/s,C,Kinetic Theory,Mathematical
+2311,The pressure of a gas is 10 x 10^5 Pascal and the temperature is 1000 K. What is its density if the molar mass is 58 g/mol?,5.8 kg/m³,2.9 kg/m³,11.6 kg/m³,1.45 kg/m³,A,Kinetic Theory,Mathematical
+3304,What is the average kinetic energy of a molecule of an ideal gas at temperature T?,2/3 kT,1/3 kT,3/2 kT⁴,3/2 kT,D,Kinetic Theory,Theoretical
+56,For an ideal gas; which law indicates the relationship between volume and temperature at constant pressure?,Boyle's,Charles's,Dalton's,None of these,B,Kinetic Theory,Theoretical
+994,At which of the following temperatures could the Earth become atmosphereless? [M=28.8 ×10-3 kg ],1490064.89 K,417900.75 K,144808.08 K,138749.07 K,C,Kinetic Theory,Mathematical
+1426,The degree of freedom for a polyatomic gas is-,2,3,5,6,D,Kinetic Theory,Theoretical
+2776,If the temperature of a gas molecule is lowered from 480K to 120K; how will the average speed change?,4v,2v,v/2,v/4,B,Kinetic Theory,Mathematical
+3287,Under constant pressure; if the temperature of a gas at 30°C and 10 L is doubled; what will the volume of the gas be?,1.5,2,0.5,1,B,Kinetic Theory,Mathematical
+921,What is the value of ɤ for nitrogen gas?,1.67,1.4,1.33,1.28,B,Kinetic Theory,Theoretical
+2406,What is the required force to move an object of 130 kg mass with an acceleration of 13 m/s²?,1550 Newtons,1600 Newtons,1700 Newtons,1800 Newtons,C,Laws of Motion,Mathematical
+666,When pulling a lawn roller; what is the effective weight of the roller?,Fcosθ,Fsinθ-W,W-Fcosθ,W-Fsinθ,D,Laws of Motion,Reasoning
+2895,A gravity rocket is an example of —,Gravity,Mass of gravity,Inertness of mass,None of these,B,Laws of Motion,Application
+2424,What is the required force to move an object of 190 kg mass with an acceleration of 18 m/s²?,3000 Newtons,3200 Newtons,3400 Newtons,3600 Newtons,D,Laws of Motion,Mathematical
+2417,What is the required force to move an object of 170 kg mass with an acceleration of 16 m/s²?,2300 Newtons,2400 Newtons,2500 Newtons,2600 Newtons,C,Laws of Motion,Mathematical
+1009,If the coefficient of static friction between two surfaces is 1/√3; what is the angle of friction?,25o,30o,45o,60o,B,Laws of Motion,Mathematical
+2370,What is the force required to move an object of 30 kg mass with an acceleration of 4 m/s²?,100 Newton,120 Newton,140 Newton,160 Newton,B,Laws of Motion,Mathematical
+3424,According to Newton's third law of motion; what is the angle between action and reaction in degrees?,90°,0°,180°,360°,C,Laws of Motion,Theoretical
+2386,What is the force required to move an object of 70 kg mass with an acceleration of 8 m/s²?,450 Newton,500 Newton,550 Newton,600 Newton,D,Laws of Motion,Mathematical
+2438,What is the required force to move an object of 230 kg mass with an acceleration of 22 m/s²?,4500 Newtons,4800 Newtons,5000 Newtons,5200 Newtons,D,Laws of Motion,Mathematical
+2872,If a 250N force acts for 5 seconds; what will be the change in the object's momentum?,1250 kgm/s,1250 m/s²,150 kgm/s,7500 m/s²,A,Laws of Motion,Mathematical
+440,The distance between a star and a planet is 107 km. If the mass of the star is 107 times greater than the mass of the planet; what is the position of the center of mass with respect to the center of the star?,10 km,20 km,107 km,1 km,D,Laws of Motion,Mathematical
+1291,A 1000 kg truck moving at 20 m/s hits a stationary 1500 kg truck and they get stuck together; they will continue to move with a velocity of,12 m/s,10 m/s,8 m/s,7.5 m/s,C,Laws of Motion,Mathematical
+346,Which is not a type of friction?,Fixed,Rolling,Static,Kinetic,A,Laws of Motion,Theoretical
+669,A stationary bomb of 16 kg mass explodes into two pieces of 4 kg and 12 kg. If the momentum of the 12 kg piece is 48 kgms-1; what is the kinetic energy of the other piece?,48 J,144 J,288 J,192 J,C,Laws of Motion,Mathematical
+2058,Calculate the acceleration of a rocket,36 ms^-2,20.2 ms^-2,15.2 ms^-2,30 ms^-2,D,Laws of Motion,Mathematical
+2863,If a force of 100 N acts on an object of mass 25 kg for 5s; what will be the value of the velocity?,20ms⁻¹,40ms⁻¹,60ms⁻¹,80ms⁻¹,A,Laws of Motion,Mathematical
+2390,What is the force required to move an object of 80 kg mass with an acceleration of 9 m/s²?,650 Newton,700 Newton,750 Newton,800 Newton,D,Laws of Motion,Mathematical
+2025,The mass of an object is 5 kg and its acceleration is 2 m/s². How much force is applied to the object?,5 N,10 N,15 N,20 N,B,Laws of Motion,Mathematical
+3363,If a 5N force acts on an object for 10s; what is the change in momentum?,60 kgms⁻¹,50 kgms⁻¹,70 kgms⁻¹,80 kgms⁻¹,B,Laws of Motion,Mathematical
+894,"A particle of mass m and velocity v strikes a horizontal surface at an angle ?. Find the horizontal and vertical components of velocity after impact using kinematics, momentum, and impulse;","v cosθ, v sinθ","v sinθ, v cosθ","v, 0","0, v",B,Laws of Motion,Theoretical
+3132,If the coefficient of friction between two parallel surfaces is 0.6; what is the angle?,√3,1.76,√2,√5,A,Laws of Motion,Mathematical
+883,Which principle is used to operate a modern jet aircraft?,Law of conservation of momentum,Newton's first law of motion,Law of gravitation,None of these,A,Laws of Motion,Application
+3177,What is the formula to determine the momentum of the Earth?,F×t,F/V,F×v,F×h,A,Laws of Motion,Definition
+3362,How many newtons of force must be applied to a 30kg car to increase its velocity to 36km/hr in 2 minutes?,2N,2.5N,300N,5N,B,Laws of Motion,Mathematical
+3430,If a force of 250 N acts on a 30 kg object for 5 seconds; what will be the change in the object's momentum?,1250 kgms⁻¹,1250 ms,150 kgms⁻¹,7500 kgms⁻²,A,Laws of Motion,Mathematical
+2870,The motion of a rocket in space is an example of —,Continuity of mass,Conservation of momentum,Motion of the center of mass,Specificity of mass,B,Laws of Motion,Application
+3426,If a bullet of 10 g mass (mass) is fired from a 3 kg gun at a velocity of 300 ms⁻¹; what is the recoil velocity of the gun?,0.05 ms⁻¹,0.25 ms⁻¹,2.0 ms⁻¹,1.0 ms⁻¹,D,Laws of Motion,Mathematical
+1706,What does Newton's third law explain?,Action-reaction,Motion,Acceleration,Energy,A,Laws of Motion,Theoretical
+974,If a horizontal force of 160N is applied to a 400N wooden block placed on the floor; what is the coefficient of friction between the floor and the wood?,4,1.6,0.4,6.4,C,Laws of Motion,Mathematical
+2028,Which is the formula for the force on a moving charge?,F = qvB,F = qE,F = ma,F = kq1q2/r²,A,Magnetism,Definition
+3434,If an electric wire along an east-west road carries a 10A current; what is the force per meter on the wire due to the Earth's magnetic field of 10⁻⁴T?,10⁻²N,10⁻³N,10⁻⁴N,10⁻⁵N,B,Magnetism,Mathematical
+723,According to Fleming's left-hand rule; what do magnetic field; current and force represent respectively?,"Middle finger, index finger, thumb","Index finger, middle finger, thumb","Index finger, thumb, middle finger","Middle finger, thumb, index finger",B,Magnetism,Definition
+496,For Hall voltage; the value of the electric field intensity is,VHd,d/VH,VH/d,VH/V,C,Magnetism,Theoretical
+1105,The temperature at which the magnetism of a magnet is completely lost; what is it called?,Magnetic induction,Magnetic intensity,Dipole moment,Curie point,D,Magnetism,Definition
+3015,When is the maximum force generated when a conducting wire is placed in a magnetic field?,θ=0°,θ=45°,θ=90°,θ=180°,C,Magnetism,Theoretical
+3032,Which physical quantity represents magnetic flux?,Φ,ε,σ,µ,A,Magnetism,Definition
+3000,At what angle does the magnetic force do maximum work?,0°,45°,60°,90°,D,Magnetism,Theoretical
+2486,The magnetic retentivity of an object is measured by-,Called magnetization,By saturation,By induced magnetism,None of the above,C,Magnetism,Definition
+455,A wire of length 45 cm experiences a force of 9×10-3 N when a current of 2 amp is passed through it in a magnetic field of 10-2 Tesla; What is the angle between the magnetic field and the conductor?,60°,45°,30°,90°,D,Magnetism,Mathematical
+314,If at a certain place H = 36 μT and the dip is 45°; what is the geomagnetic field of that place?,40.19 μT,50.91 μT,60.19 μT,70.19 μT,B,Magnetism,Mathematical
+1380,Two like poles 18 cm apart repel each other with a force of 12 dynes. If the distance between them is made 6 cm; what will be the value of the repulsion force?,108 N,36 dyne,108 dyne,90 N,C,Magnetism,Mathematical
+3409,A surface with an area of 0.4 m² makes an angle of 30° with a uniform magnetic field of 4 × 10⁻⁵ T. What will be the magnetic flux passing through the surface?,4 × 10⁻⁶ Wb,8 × 10⁶ Wb,8 × 10⁻⁶ Wb,4 × 10⁶ Wb,C,Magnetism,Mathematical
+2168,A linear conductor carries a current of 11 amperes. The length of the conductor is 9 meters and the magnetic field is 1 Tesla. What is the force?,99 N,90 N,100 N,110 N,A,Magnetism,Mathematical
+2130,A linear conductor carries a 5-ampere current; its length is 3 meters and the magnetic field is 1 tesla. What is the force?,15 N,10 N,20 N,25 N,A,Magnetism,Mathematical
+1005,At a certain place; the value of the geomagnetic field is 5 × 10-5T and the dip is 60°. What is the value of the horizontal component of the geomagnetic field at that place?,25 μT,2.5 μT,25 T,2.5 T,A,Magnetism,Mathematical
+3005,Which metal has the highest magnetic property?,Bismuth,Gold,Copper,Nickel,D,Magnetism,Theoretical
+3414,If at a place the value of the Earth's magnetic field is 50 μT and the dip is 30°; what is the value of the vertical component of the Earth's magnetic field at this place?,43.3 μT,45 μT,25 μT,35 μT,C,Magnetism,Mathematical
+2768,What is the magnetic field strength created by an electron moving at a speed of 6×10¹¹ m/s?,2.01×10⁻²⁵ T,13.67 T,8.54×10¹⁹ T,12.56 T,B,Magnetism,Mathematical
+2769,If a 40-turn coil made from 32 cm of wire produces an average magnetic field of 10μT; what is the current?,0.064 A,6.4 A,4.6 A,46 A,A,Magnetism,Mathematical
+2762,By which of the following equations can the magnetic field strength near a current-carrying infinitely long straight wire be determined?,B = μ₀I/2πa,B = μ₀/2πa,B = μ₀I/2π,B = μ₀I/2a,A,Magnetism,Theoretical
+3417,If the horizontal and vertical intensities of the Earth's magnetic field are equal at a place; what will be the value of the angle of dip at that place?,30°,45°,60°,75°,B,Magnetism,Reasoning
+226,Curie point is a temperature at which-,a solid substance melts,a liquid substance starts to boil,a solid substance loses its magnetism,a solid substance gains magnetism,C,Magnetism,Definition
+1788,What is the unit of magnetic flux?,Weber,Tesla,Henry,Farad,A,Magnetism,Definition
+915,If the angle of dip at a place is δ; what will be the vertical component of the earth's magnetic field at that place?,V=B sin δ,V=B cos δ,V=B tan δ,V=B cot δ,A,Magnetism,Theoretical
+1191,A tangent galvanometer shows a deflection of 30° for a current of 3A. For what current will the deflection be 45°?,√33A√33A,3√3 A,√32A√32A,2√3 A,B,Magnetism,Mathematical
+1335,Whose law is this: ∮B––.d––l=μ0I∮B̲.d̲l=μ0I?,Ampere,Fleming's,Lenz's,Biot-Savart,A,Magnetism,Definition
+2154,A linear conductor carries a current of 9 amperes. The length of the conductor is 6 meters and the magnetic field is 1 Tesla. What is the force?,54 N,50 N,60 N,65 N,A,Magnetism,Mathematical
+3004,What will be the acceleration if an electron with a charge of 1.6×10⁻¹⁹ C and a mass of 9.1×10⁻³¹ kg enters a field B?,10¹⁰,10¹²,10¹⁴,10¹⁶,C,Magnetism,Mathematical
+79,Who prorogues the session of the Jatiya Sangsad (National Parliament) of Bangladesh?,Deputy Speaker,Speaker,President,Prime Minister,C,Miscellaneous,Miscellaneous
+313,How many articles are there in the Constitution of Bangladesh?,157,7,153,4,C,Miscellaneous,Miscellaneous
+1476,Who is the leader of the country's legislature?,Speaker,Prime Minister,President,Law Minister,B,Miscellaneous,Miscellaneous
+822,How much,120,134,345,60,A,Miscellaneous,Miscellaneous
+2713,What does a smoke trail act as at a given frequency?,Conductor,Dielectric,Conductor,Resistor,C,Miscellaneous,Miscellaneous
+3130,If Kinetic energy is K; what is its value?,k,½ k,2k,4k,C,Miscellaneous,Miscellaneous
+3368,The relative mass of the total relative Newtonian force of the universe is—,10³⁰,10³⁹,10⁴⁰,10⁴²,B,Miscellaneous,Miscellaneous
+1292,'Man must die.' The correct translation is-,All man must die.,Mens must die.,Man should die.,Man must die.,D,Miscellaneous,Miscellaneous
+2825,What will be the Young's modulus in dyne/cm² of a rod with a length of 3 m and a cross-sectional area of 1 cm²?,2.5×10¹⁰,5×10¹⁰,10¹¹,None of these,B,Miscellaneous,Miscellaneous
+809,What is the color of a tourmaline crystal?,Red,Blue,Light yellow,Light green,D,Miscellaneous,Theoretical
+2836,Which one is an orbital division?,Movement of an airplane,Spherical orbit,Circular orbit,Earth's orbit,B,Miscellaneous,Miscellaneous
+256,Calculate (100110)2=(?)10,38,30,37,22,A,Miscellaneous,Mathematical
+2500,The threshold frequency of a surface is 8 × 10^14 Hz. If light of 2400 Å is incident on that surface; the maximum kinetic energy of the emitted electron will be–,1.86 J,2.98 × 10^-19 J,8.29 × 10^-19 J,13.59 × 10^-19 J,C,Modern Physics,Mathematical
+532,One electron volt is equal to?,1.6 × 10-13 J,1.9 × 10-19 J,1.6 × 10-11 J,1.6 × 10-19 J,D,Modern Physics,Definition
+265,The discoverer of X-rays is,Max Planck,Rantgen,Maxwell,Einstein,B,Modern Physics,Historical
+2659,Electrons are emitted when light falls on a metal plate. What is this called?,Photoelectric effect,Light radiation,Light absorption,Light reflection,A,Modern Physics,Definition
+2006,When a photon and an electron collide; where is the probability of maximum energy exchange?,On the photon's wavelength,On the electron's mass,On the relative velocity of both,In a vacuum,C,Modern Physics,Reasoning
+2265,The wavelength of an electron is 5 x 10^-11 meters. What is its velocity if the mass is 9.1 x 10^-31 kg?,1.46 x 10^7 m/s,7.3 x 10^6 m/s,2.92 x 10^7 m/s,3.65 x 10^7 m/s,A,Modern Physics,Mathematical
+986,The relationship between wavelength λ and photon energy E is-,E=hc/λ2,E=hc/λ,E=hλ/c,E=hλ2/c,B,Modern Physics,Theoretical
+1652,What is Einstein's photoelectric equation?,E = hf - φ,E = hf + φ,E = h/f - φ,E = h/f + φ,A,Modern Physics,Definition
+3060,Which property of light does the photoelectric effect prove?,Wave,Particle,Dual nature,None of these,B,Modern Physics,Theoretical
+561,Which is not a method of X-ray production-,Gas tube method,Betatron method,Coolidge tube method,Gammatron method,D,Modern Physics,Theoretical
+2507,In physics; which two forces did Abdus Salam and Steven Weinberg unify?,Universal gravitational force and electromagnetic force,Electromagnetic force and weak nuclear force,Strong nuclear force and electromagnetic force,Weak nuclear force and strong nuclear force,B,Modern Physics,Historical
+2532,Which of the following is used in the automatic device for counting the number of people entering or leaving an auditorium?,Dry cell,Photoelectric cell,X-ray,Gamma ray,B,Modern Physics,Application
+5,1 electron volt (1 eV) is,1.6 × 10-9 J ,1.6 × 109 J,1.6 × 10-19 J,1.6 × 1019 J,C,Modern Physics,Definition
+2567,What will be the frequency of a photon particle with 66.3 eV of energy?,1.6×10^15 Hz,1.6×10^16 Hz,1.6×10^18 Hz,2.6×10^16 Hz,B,Modern Physics,Mathematical
+778,With an increase in the mass of a particle; the wavelength –,will increase,will decrease,will remain the same,will be '0',B,Modern Physics,Theoretical
+2284,The wavelength of an electron is 1 x 10^-10 meters. What is its velocity if the mass is 9.1 x 10^-31 kg?,7.3 x 10^6 m/s,3.65 x 10^6 m/s,1.46 x 10^7 m/s,2.19 x 10^7 m/s,A,Modern Physics,Mathematical
+1808,What does Wien's law explain?,The relationship between wavelength and temperature,The relationship between wavelength and pressure,The relationship between wavelength and density,The relationship between wavelength and energy,A,Modern Physics,Theoretical
+2304,The wavelength of an electron is 2 x 10^-10 meter. What is its velocity if its mass is 9.1 x 10^-31 kg?,3.65 x 10^6 m/s,7.3 x 10^6 m/s,1.46 x 10^7 m/s,2.19 x 10^7 m/s,A,Modern Physics,Mathematical
+3478,If an object of 10kg mass is completely converted into energy; what is the amount of energy produced?,9×10¹⁹ J,9×10¹⁸ J,9×10¹⁷ J,9×10¹⁶ J,C,Modern Physics,Mathematical
+1323,What are cathode rays?,Protons,Neutrons,Electrons,Bosons,C,Modern Physics,Definition
+595,Although the charge and baryon number of quarks are fractional; they are grouped in such a way that their total charge and baryon number are-,is 0 or 1,is -1 or 1,is 0 or -1,is 1 or 2,A,Modern Physics,Theoretical
+1187,Which particle is known as the 'God particle'?,Lepton particle,Boson particle,Higgs boson particle,Meson particle,C,Modern Physics,Theoretical
+889,The decay constant of a radioactive substance is 0.00385s-1 ; what is its half-life?,1.5 min,3 min,5min,7 min,B,Nuclear Physics,Mathematical
+1400,Which force is responsible for binding protons and neutrons?,Strong nuclear force,Gravitational force,Weak nuclear force,Electromagnetic force,A,Nuclear Physics,Theoretical
+84,After 14 minutes; 1/16 of a radioactive element remains. What will be its half-life?,7/8 min,7/4 min,7/2 min,14/3 min,C,Nuclear Physics,Mathematical
+1053,Of two radioactive substances of equal amount; one has a half-life of 10 days and the decay constant of the other is 0.03465 d-1,10 d,14.43 d,17.63 d,20 d,B,Nuclear Physics,Mathematical
+949,The mass of a beta ray particle is-,Equal to the mass of an electron,Twice the mass of an electron,Equal to the mass of a proton,Twice the mass of a proton,A,Nuclear Physics,Theoretical
+1649,What controls nuclear fission?,Neutron,Proton,Electron,Photon,A,Nuclear Physics,Theoretical
+508,After 48 days; 0.25kg of a 1kg mass of a radioactive element is found. What is the half-life of the element?,12days,24days,25days,30days,B,Nuclear Physics,Mathematical
+252,Mass number refers to the number of what located in the nucleus?,Electron Proton,Proton and Neutron,Neutron and Electron,"Proton, Neutron and Electron",B,Nuclear Physics,Definition
+243,Which acts as a control rod in a nuclear reactor?,Cadmium,Uranium,Chromium,Heavy water,A,Nuclear Physics,Theoretical
+1030,Nuclear binding energy is the energy that binds together in the nucleus.,protons and neutrons,electrons and nucleons,only neutrons,only protons,A,Nuclear Physics,Definition
+1679,What is the mass of an alpha particle?,4 u,2 u,1 u,0 u,A,Nuclear Physics,Theoretical
+1201,Which of the following is the carrier particle of the strong nuclear force?,Graviton,Photon,Gluon,Gauge boson,C,Nuclear Physics,Theoretical
+1491,The half-life of Radon is 4 days. What is its mean life?,3.77d,4.77d,5.77d,8.77d,C,Nuclear Physics,Mathematical
+3072,If the mass of a proton is 1.67×10⁻²⁷ kg; what is its energy in MeV?,1.02,2.04,5.1,10.2,A,Nuclear Physics,Mathematical
+7,When an α particle is emitted from a radioactive element; what is the change in mass?,Increases by 4 units,Decreases by 4 units,Increases by 2 units,Decreases by 2 units,B,Nuclear Physics,Theoretical
+415,4020Ca and 3919K are-,Isotopes,Isobars,Isomers,Isotones,D,Nuclear Physics,Definition
+1164,Which is not a characteristic of nuclear force?,Short-ranged,Very strong,Positively charged,Attractive,C,Nuclear Physics,Theoretical
+1742,What is the nature of a beta particle?,Electron,Helium nucleus,Proton,Neutron,A,Nuclear Physics,Definition
+3382,If the nucleus of a heavy atom is split into two parts of almost equal mass by being struck by a neutron; it is called—,Fission,Fusion,Diffusion,None of these,A,Nuclear Physics,Definition
+1873,What is controlled in nuclear fission?,Neutron,Proton,Electron,Photon,A,Nuclear Physics,Theoretical
+798,The half-life of a radioactive substance is 5y. After how many years will 1/32 of the substance remain unchanged?,10 y,20 y,25 y,30 y,C,Nuclear Physics,Mathematical
+296,A radioactive element with a half-life of 40 s has an initial number of nuclei of 40. After 20s; what will be the number of nuclei?,7×10^4,7×10^5,7×10^4,7×10^7,B,Nuclear Physics,Mathematical
+692,In which of the following nuclei is the number of protons and neutrons equal?,13Al27,3Li7,2He4,1H1,C,Nuclear Physics,Theoretical
+1131,The time period is - to the force constant.,proportional,inversely proportional,inversely proportional to the square root,proportional to the square root,C,Oscillations,Theoretical
+2592,The equation of motion of a particle in simple harmonic motion is y = 5 sin (ωt + δ). If the initial displacement is 2.5cm; what is the initial phase of the particle?,90°,30°,45°,0°,B,Oscillations,Mathematical
+100,If the period of a pendulum is T= 0.125s; what is its frequency?,10 Hz,8 Hz,125 Hz,12.5 Hz,B,Oscillations,Mathematical
+1255,To double the period of oscillation of a simple pendulum,The length must be doubled,The length must be quadrupled,The mass of the bob must be doubled,The mass of the bob must be quadrupled,B,Oscillations,Reasoning
+1153,A spring expands by 15 cm when a mass is attached to it. What will be its period if the spring is made to oscillate? [g=9.8 ms−2],0.8 s,0.86 s,0.78 s,0.99 s,C,Oscillations,Mathematical
+2806,If the length of a simple pendulum is increased by 50%; by what factor will its effective length increase?,1.25,1.5,2,2.5,B,Oscillations,Mathematical
+864,The amplitude of a particle oscillating at a frequency of 5Hz is 45cm; What is its velocity when the particle's displacement is 15cm?,14.67 ms?1,13.33 ms?1,6.66 ms?1,15.34 ms?1,B,Oscillations,Mathematical
+283,If the equation of displacement of an object in simple harmonic motion is x=2sin3t and the spring constant is k = 30 Nm-1; what is its potential energy in units at time t=?/9?,40,45,80,90,B,Oscillations,Mathematical
+266,When an object of mass m is hung from one end of a spring; it expands by 0.08 m. If the object is pulled a little and released; what is its period?,0.57 s,0.57 min,5.7 s,0.57 hr,A,Oscillations,Mathematical
+1197,The length of a simple pendulum is L. To make its period half; what should be the length?,L/4,L/2,2 L,4 L,A,Oscillations,Mathematical
+2810,Which is correct regarding the mathematical values of motion in simple harmonic oscillation?,Velocity is maximum,Displacement is maximum,Velocity is minimum,Displacement is minimum,B,Oscillations,Theoretical
+1397,If the mass of the bob of a simple pendulum at a certain place is made 4 times while keeping its effective length unchanged; its period will-,become 2 times,become 4 times,remain unchanged,become 1/4 times,C,Oscillations,Reasoning
+2805,The equation for the period of a simple pendulum is-,g = 4π²L/T²,g = 4πL/T²,g = 4π²L/T,g = 4πL/T²,A,Oscillations,Theoretical
+3222,If the length of a simple pendulum is doubled; what will happen to the frequency?,½ times,1/√2 times,2 times,√2 times,B,Oscillations,Reasoning
+18,If the amplitude of a simple pendulum is doubled; then its period-,will be doubled,will be halved,will be quadrupled,will remain unchanged,D,Oscillations,Theoretical
+507,If the equation of motion of a particle in simple harmonic motion is `(d^2x)/dt^2+16x=0`; what will be the period (T) of the particle in seconds?,`pi/2`,`pi/8`,`pi/4`,2π,A,Oscillations,Mathematical
+1387,The equation for the total energy of an object in simple harmonic motion is-,E=1/2 Ka2,Both A and B,E=1/2 mω2a2,None of these,C,Oscillations,Definition
+3109,What is the time period of a pendulum if its length is 1 m?,1.0 s,2.0 s,1.5 s,0.5 s,B,Oscillations,Mathematical
+3228,If the length of a simple pendulum is 1 m; what is its frequency?,0.25 Hz,0.5 Hz,1 Hz,2 Hz,B,Oscillations,Mathematical
+3216,What is the formula for the frequency of a simple pendulum?,1/2π√(l/g),1/2π√(g/l),2π√(l/g),2π√(g/l),B,Oscillations,Theoretical
+1065,If the length of a seconds pendulum is increased 2.25 times; what will be its new period of oscillation?,3 sec,6 sec,9 sec,12 sec,A,Oscillations,Mathematical
+329,Resonance will occur when the natural frequency of an object is - the frequency of the periodic vibration imposed on it.,Greater than,Less than,Equal to,Double,C,Oscillations,Theoretical
+927,A simple pendulum 30 cm long oscillates 50 times per minute. If its length is made 2.7 m; how much time will it take to oscillate 60 times?,216 s,3.6 min,2160 s,Both A and B,D,Oscillations,Mathematical
+1114,When a force of 0.5 N is applied to a wire with a cross-sectional area of 1mm2; the longitudinal strain is 2×10−5. What is the work done per unit volume on the wire?,10 J,5 J,2.5 J,7.5 J,B,Properties of Matter,Mathematical
+591,For liquids that do not wet glass; their angle of contact is -,almost zero,almost 90°,less than 90°,greater than 90°,D,Properties of Matter,Theoretical
+2267,The surface tension of a liquid is 0.08 N/m and the length of the film is 0.015 m. What is the vertical force?,1.2 x 10^-³ N,0.6 x 10^-³ N,2.4 x 10^-³ N,3 x 10^-³ N,A,Properties of Matter,Mathematical
+2819,Which substance has the highest viscosity?,Milk,Water,Oil,Honey,D,Properties of Matter,Theoretical
+21,A 15kg mass hangs from a wire with a 2mm^2 cross-section. With the mass hanging; the wire's length is 4m. The Young's modulus of the wire material is 1.3x1010 Nm-1. If the mass is removed; how much will the wire contract?,0.0022m,0.0225m,0.225m,2.25m,B,Properties of Matter,Mathematical
+749,At what temperature does iron melt?,400°C,570°C,770°C,1100°C,C,Properties of Matter,Theoretical
+1099,The length of a 2nd wire made of the same material is double the length of a 1st wire; but its radius is half that of the 1st wire. If an equal load is applied; what is the ratio of the extension of the 2nd wire to the 1st wire?,same,2,2-Jan,8,D,Properties of Matter,Mathematical
+2656,What is the property called when an object is deformed by applying a force on it?,Elasticity,Plasticity,Work,Kinetic energy,A,Properties of Matter,Definition
+367,Which is the reciprocal of the bulk modulus?,Poisson's ratio,Compressibility,Young's modulus,Rigidity modulus,B,Properties of Matter,Definition
+1343,What is the unit of absolute humidity?,kgm−1,kgm−3,kgm−2,kg2m3,B,Properties of Matter,Definition
+3200,If the extension of a rod is doubled; while the Stress remains unchanged; what will happen to the Strain?,Doubled,Halved,Quadrupled,Will remain the same,A,Properties of Matter,Reasoning
+967,Which of the following is Young's modulus for steel?,10×1010 Nm−2,2×1010 Nm−2,20×1010 Nm−2,7×1010 Nm−2,C,Properties of Matter,Theoretical
+3326,What is the amount of work required to increase the length of a steel wire; which is 200 cm long and has a cross-sectional area of 1 mm²; by 1.0 mm?,0.05 J,1.0 J,1.5 J,0.75 J,A,Properties of Matter,Mathematical
+2337,The surface tension of a liquid is 0.01 N/m and the length of the plate is 0.006 m. What is the vertical force?,6 x 10^-5 N,3 x 10^-5 N,12 x 10^-5 N,1.5 x 10^-5 N,A,Properties of Matter,Mathematical
+392,Which of the following does not have an effect on the surface tension of a liquid?,Presence of inorganic pollutants,Volume of the container,Mass of the container,Shape of the container,D,Properties of Matter,Theoretical
+287,The breaking stress of a wire depends on-,its radius,its length,the shape of its cross-section,its material,C,Properties of Matter,Theoretical
+495,Which of the following statements is correct regarding the intermolecular force of a substance?,The intermolecular force changes with the change in the distance r between the molecules?,As r increases; the intermolecular force becomes more attractive,As r decreases; the intermolecular force becomes more repulsive,All of the above statements are correct,D,Properties of Matter,Theoretical
+814,The dimensional equation of Young's modulus is -,[Y] = [ML-2 T-1],[Y] = [ ML-1 T-1],[Y]=[ML-1T-2],[Y] = [M-1L-1T-1],C,Properties of Matter,Definition
+2088,Which of the following substances has the highest boiling point?,Water,Ether,Benzene,Mercury,D,Properties of Matter,Comparison
+1997,In which theory is the concept of zero-point energy used?,In Thermodynamics,In Relativity Theory,In Quantum Mechanics,In Stationary Wave Theory,C,Quantum Mechanics,Theoretical
+2018,What does the Heisenberg uncertainty principle indicate?,Position and momentum cannot be measured simultaneously with certainty,Conservation of mass and energy,The solution of the Schrödinger equation,It is impossible to measure only mass,A,Quantum Mechanics,Theoretical
+91,Which scientist expanded the concept of quantum theory?,Michel Faraday,Albert Einstein,Max Planck,Newton,C,Quantum Mechanics,Historical
+2067,What is responsible for a mirage?,Refraction,Reflection,Total internal reflection,Desert,C,Ray Optics,Theoretical
+2222,The focal length of a convex mirror is 30 cm. If an object is placed 60 cm away where will the image be formed?,Behind at 60 cm,Behind at 30 cm,Behind at 15 cm,Image will not be formed,B,Ray Optics,Mathematical
+3048,If the focal length of a concave mirror is 15 cm and the object distance is 20 cm; how far will the image be?,60 cm,30 cm,10 cm,25 cm,B,Ray Optics,Mathematical
+984,Which lens is used for myopia (nearsightedness)?,Multiplier,Concave lense,Convex lense,Bi focal,B,Ray Optics,Application
+1758,What is dispersion of light?,Splitting into different colors,Reflection,Refraction,Evolution,A,Ray Optics,Definition
+575,When a ray of light enters a thick and smooth piece of glass from air,Neither its wavelength nor its frequency changes,Its frequency increases,Its wavelength increases,Its wavelength decreases,D,Ray Optics,Theoretical
+2019,Which radiation has the most deviation in a prism?,Violet,Red,Green,Blue,A,Ray Optics,Theoretical
+913,If the refractive indices of water and diamond are 1.33 and 2.4 respectively; what is the speed of light in diamond? [Speed of light in water is 2.28 × 108 ms-1],9.85 x 108 m/s,1.26 x 108 m/s,3 x 108 m/s,4.92 x 108 m/s,B,Ray Optics,Mathematical
+1893,What type of image can a concave mirror create?,Both real and virtual,Only real,Only virtual,No image,A,Ray Optics,Theoretical
+3049,If the refractive index of a liquid is 1.48; what is its critical angle?,42°,48.75°,60°,30°,B,Ray Optics,Mathematical
+468,If a convex lens of power 4D is combined with a concave lens of power 3D; what will be the focal length of the combined lens?,25 cm,50 cm,100 cm,200 cm,C,Ray Optics,Mathematical
+1626,What does the focal length of a lens depend on?,Radius of curvature,Mass of the lens,Density of the lens,Pressure of the lens,A,Ray Optics,Theoretical
+325,The refractive indices of water and glycerin are 1.33 and 1.47 respectively; the critical angle between them will be - ,69°4,60°42,64°2,62°0?,C,Ray Optics,Mathematical
+1249,If the focal length of a convex lens is 100cm; its power will be?,P=100D,1D,P=1/100D,P=1/10D,B,Ray Optics,Mathematical
+550,The mirror used as a reflector in cars or motorcycles is-,Convex mirror,Plane mirror,Concave mirror,Convex-concave mirror,A,Ray Optics,Application
+580,If a boy 120 cm tall wants to see his full length in a mirror; the minimum length of the mirror must be-,40 cm,60 cm,80 cm,120 cm,B,Ray Optics,Mathematical
+2628,A real image is formed by a lens. What type of lens is it?,Convex lens,Concave lens,Any lens,None of these,A,Ray Optics,Reasoning
+3054,If an object is placed 30 cm away from a concave mirror with a focal length of 15 cm; what is the distance of the image?,30 cm,20 cm,10 cm,15 cm,A,Ray Optics,Mathematical
+1891,In which medium is the speed of light the slowest?,Diamond,Vacuum,Water,Air,A,Ray Optics,Theoretical
+375,An object is placed at an infinite distance from a convex mirror. The image of the object will be formed-,at infinity,at position f,at position f/2,at position 2f,B,Ray Optics,Theoretical
+1402,To see the rear view of a car; the driver has a-,Concave mirror,Convex mirror,Plane mirror,Parabolic mirror,B,Ray Optics,Application
+437,If the refractive indices of a medium for red and violet light are μr and μv respectively; then -,μr>μv,μr<μv,μr=μv,,B,Ray Optics,Theoretical
+198,If an object is placed in front of a concave mirror of 12 cm focal length; a three times magnified virtual image is formed; What is the distance of the object from the mirror?,10 cm,9 cm,8 cm,12.50 cm,C,Ray Optics,Mathematical
+147,When looking straight down from above a thick glass slab (refractive index 1.5) used as a paperweight; a mark on the paper is seen below the top surface of the glass. What is the thickness of the glass slab?,4 cm,6 cm,9 cm,12 cm,C,Ray Optics,Mathematical
+581,If the power of a pair of glasses is +2 diopters; then which of the following will be the lens?,"Concave, focal length 50 cm","Convex, focal length 20 cm","Concave, focal length 20 cm","Convex, focal length 50 cm",D,Ray Optics,Application
+3400,1 watt equals how many Lumens?,550,620,600,621,D,Ray Optics,Definition
+1841,How does an optical fiber transmit light?,Total internal reflection,Refraction,Dispersion,Polarization,A,Ray Optics,Application
+1001,The far point of a person's eye is 5 meters. What power lens does he need to see distant objects?,+2 D,+0.2 D,-0.2 D,-2 D,D,Ray Optics,Mathematical
+3036,What is the formula for determining the refractive index of a prism?,λ₁/λ₂,λ₂/λ₁,D₁/D₂,D₂/D₁,A,Ray Optics,Theoretical
+2066,Where are convex mirrors used?,In cars,In torch lights,In solar furnaces,In radar,A,Ray Optics,Application
+3041,If the power of a lens is 4D; what is its focal length?,25 cm,20 cm,10 cm,50 cm,A,Ray Optics,Mathematical
+1453,If two points 12cm and 20cm in front of a concave mirror are considered conjugate foci; what will be the focal length of the mirror?,5.7cm,7.5cm,16cm,None of these,B,Ray Optics,Mathematical
+1077,The refractive index of glass with respect to air is 1.5. If one light-year in air is 9.4 × 10^12 km; what is the value of one light-year in glass?,14.1 × 1012 km,4.7 × 1012 km,9.4 × 1012 km,6.27 × 1012 km,D,Ray Optics,Mathematical
+1216,If an object moves at the speed of light; its mass will be--,half,zero,infinite,double,C,Relativity,Theoretical
+1034,If a proton moves at a velocity of `sqrt3/2c`; what percentage of its total energy is kinetic energy?,86.67%,50%,25%,75%,B,Relativity,Mathematical
+935,What is the mathematical form of the laws of physics in all inertial frames of reference?,Does not remain in the same form,Remains in the same form,The velocity of the inertial frame is added to the mathematical equation,The square of the velocity of the inertial frame is added to the mathematical equation,B,Relativity,Theoretical
+1831,What is Einstein's mass-energy equivalence formula?,E = mc²,E = m/c²,E = mc,E = m²c,A,Relativity,Definition
+148,Which is the equation for the radius of the event horizon?,R= GM/2c2,R = GM/c2,R = c2/2GM,R = 2GM/c2,D,Relativity,Theoretical
+552,In a vacuum; the speed of light for all observations in all inertial frames is-,Different,Uniform,Dependent on the light source,Dependent on the observation,B,Relativity,Theoretical
+3396,The Michelson-Morley experiment can determine,The light-year of a star,The wavelength of starlight,The dip value of the interference fringe,None of these,D,Relativity,Experimental
+1998,According to the theory of relativity; how does the time of a moving clock appear to an observer?,Fast,Slow,Zero,Unchanged,B,Relativity,Theoretical
+177,A fan rotates 60 times per minute; Its angular velocity will be-,π rad/sec,2π rad/sec,3 rad/sec,2 rad/sec,B,Rotational Motion,Mathematical
+3352,A wheel has a mass of 5kg and a radius of gyration of 25cm. What is its moment of inertia?,0.4125 kg·m²,0.7125 kg·m²,0.3125 kg·m²,0.9125 kg·m²,C,Rotational Motion,Mathematical
+349,Which is not applicable for angular velocity-,Its value increases if the speed of the rotating particle increases,The S.I unit of angular velocity is rad/sec,Angular velocity is a vector quantity,The dimension of angular velocity is LT-1,D,Rotational Motion,Theoretical
+49,An object of mass 2 kg; tied to one end of a 3 m long string; is rotated with an angular velocity of 4 rads-1. The tension on the string will be,50 N,48 N,100 N,96 N,D,Rotational Motion,Mathematical
+1331,The unit of angular velocity is-,rad s-1,rad s-2,ms-1,rad,A,Rotational Motion,Definition
+3131,What will be the torque if a 20 kg block rotates on a 0.5 m wheel with an angular acceleration of 2 rads⁻²?,50 Nm,5 Nm,10 Nm,100 Nm,C,Rotational Motion,Mathematical
+1082,In the case of a cylindrical object; where is the center of gravity located?,At the end of the axis,At the midpoint of the axis,At the geometric center,Outside the axis,B,Rotational Motion,Theoretical
+413,What is the unit of moment of inertia?,Kg m2,Kg m,Kg m-2,Kg m-1,A,Rotational Motion,Definition
+3361,What is the angular velocity of the minute hand of a clock?,π/1800 rad/s,1800/π rad/s,π rad/s,π/1800 rad/s,D,Rotational Motion,Mathematical
+3353,What is the moment of inertia of a square of mass 'M' and side 'a' about one of its diagonals?,Ma²/3,Ma²/6,Ma²/9,Ma²/12,D,Rotational Motion,Theoretical
+1321,What is the unit of angular velocity?,rad/s,rad/s2,m/s,rad,A,Rotational Motion,Definition
+2062,What kind of motion is the motion of a clock's hand?,Linear motion,Translational motion,Rotational motion,Vibratory motion,C,Rotational Motion,Application
+2497,What is the angular velocity of the second hand of a clock?,π rads−1,`pi/30 rads^-1`,`pi/60 rads^-1`,`pi/15 rads^-1`,B,Rotational Motion,Mathematical
+674,The ratio of the angular velocities of the second; minute; and hour hands of a clock is-,720:60:1,1:60:720,0.058333333,720:12:01,D,Rotational Motion,Mathematical
+347,The value of the angular velocity of the minute hand of a clock is_,60/π rad/s,1800/π rad/s,π rad/s,π/1800 rad/s,D,Rotational Motion,Mathematical
+3093,The resistance of a thermistor changes with what?,Temperature,Pressure,Voltage,Current,A,Semiconductor Physics,Theoretical
+293,What is the threshold voltage of Germanium?,0.7V,0.6V,0.3V,0.5V,C,Semiconductor Physics,Definition
+1687,What is doped into an n-type semiconductor?,Pentavalent element,Trivalent element,Divalent element,Tetravalent element,A,Semiconductor Physics,Theoretical
+1832,What is doping in a semiconductor?,Adding impurities,Removing impurities,Adding energy,Removing energy,A,Semiconductor Physics,Definition
+1258,For a transistor in common emitter configuration; which is correct for the current gain β?,β=0.98,β=1,β=0,β>1,D,Semiconductor Physics,Theoretical
+182,For which gate is the output 0 when the input is 1?,X NOR gate,NOT gate,XOR gate,OR gate,B,Semiconductor Physics,Definition
+1834,What are the majority charge carriers in a p-type semiconductor?,Holes,Electrons,Protons,Neutrons,A,Semiconductor Physics,Theoretical
+1390,What is the ratio of reverse to forward resistance of Si?,40000 : 1,1000000∶1,100000∶1,4000∶1,B,Semiconductor Physics,Theoretical
+1438,If the temperature of a transistor increases; then-,Resistance increase,Resistance decrease,Capacitance increase,Capacitance decrease,B,Semiconductor Physics,Theoretical
+271,According to Boolean algebra; what is the value of `bar(A + B)`?,`barA.barB`,`barA+barB`,A+B,A.B,A,Semiconductor Physics,Theoretical
+1113,The width of the depletion region of a p-n junction is__,10-6m-10-8 m,10-9m-10-12m,10-3m-10-5m,10-13m-10-15m,A,Semiconductor Physics,Theoretical
+1661,What is the function of a NOT gate?,Outputs the inverse of the input,Outputs the same as the input,Outputs double the input,Outputs half the input,A,Semiconductor Physics,Theoretical
+1782,What is the definition of α in a transistor?,Iₓ/Iₑ,I₆/Iₑ,Iₓ/I₆,Iₑ/Iₓ,A,Semiconductor Physics,Definition
+2085,What are solar cells made of?,Germanium,Helium,Silicon and Germanium,Silicon,D,Semiconductor Physics,Application
+3092,For which color is the efficiency of an LED higher?,Red,Green,Blue,Yellow,C,Semiconductor Physics,Theoretical
+1381,A solar cell is a-,Analog device,Digital device,Electronic device,An electric motor,C,Semiconductor Physics,Definition
+474,Which is a universal logic gate?,NOT,NAND,OR,XOR,B,Semiconductor Physics,Definition
+1653,What is a band gap in a semiconductor?,The energy difference between the valence and conduction bands,The sum of the valence and conduction bands,Energy of the valence band,Energy of the conduction band,A,Semiconductor Physics,Definition
+3086,From the formula for a transistor's current gain β = Ic/Ib; what is the value of β?,50,100,200,500,C,Semiconductor Physics,Theoretical
+1657,What is an operational amplifier?,Voltage amplifier,Current amplifier,Power amplifier,Pressure amplifier,A,Semiconductor Physics,Definition
+158,What is used for the rectification of electric current?,Diode,Transistor,Resistor,Amplifier,A,Semiconductor Physics,Application
+2505,What can a Transistor act as?,"Amplifier,Rectifier","Amplifier,Switch","Rectifier,Switch","Amplifier,Rectifier,Switch",D,Semiconductor Physics,Application
+1882,What is a logic gate?,Basic unit of a digital circuit,Unit of an analog circuit,Unit of an electric circuit,Unit of a magnetic circuit,A,Semiconductor Physics,Definition
+1885,What is the function of a NOT gate?,Outputs the inverse of the input,Outputs the same as the input,Outputs double the input,Outputs half the input,A,Semiconductor Physics,Theoretical
+1236,The input resistance of a silicon transistor is 200 Ω. If the base current IB changes by 30 μA; the collector current changes by 3.0 mA. If the load resistance of the transistor is RL=5 kΩ; what will be the voltage gain of the amplifier?,1250,2500,4000,5000,B,Semiconductor Physics,Mathematical
+946,What is a semiconductor diode called?,Rectifier,Transistor,Amplifier,FET,A,Semiconductor Physics,Definition
+134,Which impurity should be mixed with pure Germanium to produce a p-type semiconductor?,Phosphorus,Boron,Antimony,None of these,B,Semiconductor Physics,Theoretical
+58,If ΔIB=0.05 mA and ΔIC=2 mA; what is the value of the current gain?,4,0.2,50,40,D,Semiconductor Physics,Mathematical
+470,A change in current of 400 mA in a p-n junction causes a change in potential difference of 0.1V across its two ends; What is its resistance?,0.3Ω,0.25Ω,0.15Ω,0.35Ω,B,Semiconductor Physics,Mathematical
+3311,What is the value of the gas constant R at standard temperature and pressure?,8.314 J moleK⁻¹,8.314 J mole⁻¹K⁻¹,8.314 J mole⁻¹K,8.0314 J mole⁻¹K⁻¹,B,Thermodynamics,Theoretical
+955,If ɤ = 5/3; which of the following is correct?,cp= 5/3 R,Cv= 5/3R,Cv= 2R,Cv= 3/2 R,D,Thermodynamics,Theoretical
+138,The efficiency of a Carnot engine with a heat sink at 27°C is 20%; to double the efficiency; what change must be made to the temperature of the heat source?,Must be increased by 125°C,Must be decreased by 375°C,Must be decreased by 125K,Must be increased by 227°C,A,Thermodynamics,Mathematical
+2936,In a Carnot engine; if the absorbed heat is 1260 J and the rejected heat is 930 J; what is the efficiency?,25.80%,26.20%,35.80%,36.20%,A,Thermodynamics,Mathematical
+273,The physical quantity that remains constant in an isothermal process is called-,Pressure,Internal energy,Volume,Entropy,B,Thermodynamics,Definition
+2932,On a faulty thermometer that reads 1°C at the ice point and 98°C at the steam point; what is the true temperature for a 40°C reading?,32.3°C,36°C,40.2°C,48.4°C,C,Thermodynamics,Mathematical
+393,Which of the following equations is correct for thermodynamics?,dQ = W,Cp- Cv= constant,TVÎ³-1= constant,PVÎ³= R,C,Thermodynamics,Theoretical
+2927,A gas is heated from 27°C to 227°C and its volume doubles. By which law is this possible?,Boyle,Charles,Gay-Lussac,Avogadro,B,Thermodynamics,Reasoning
+2502,Which property of an object is used in a pyrometer?,Optical property,Linear expansion property,Radiation property,Electrical property,C,Thermodynamics,Application
+2030,Which value on the temperature scale indicates absolute zero?,0° C,0 K,-273° C,100 K,B,Thermodynamics,Definition
+3272,If the relative humidity is 100%; what will the dew point be relative to the air temperature?,Will be half,Will be double,Will be equal,Will be less,C,Thermodynamics,Reasoning
+315,When does entropy remain constant?,In a reversible cycle,In a reversible cycle,In an isothermal cycle,In an isobaric cycle,A,Thermodynamics,Theoretical
+1340,The volume of a gas at 20°C was doubled while keeping the pressure constant.,-273 °C,300 °C,313 ° C,586 °C,C,Thermodynamics,Mathematical
+2673,Example of an object with a thermometric property-,Mercury in a conical tube,Granite wire,Conductivity wire of a thermocouple,All of these,D,Thermodynamics,Application
+3476,Change in entropy in a reversible process:,Less,Increases,Zero,None of these,C,Thermodynamics,Theoretical
+2149,A gas has a pressure of 600 Pascals and a volume of 5 m³; what is the work done?,3000 J,2500 J,3500 J,4000 J,A,Thermodynamics,Mathematical
+2246,The pressure of a gas is 4 x 10^5 Pascals and the temperature is 300 K. What is its molar volume if R = 8.31 J/mol·K?,6.23 x 10^-3 m³/mol,5.23 x 10^-3 m³/mol,7.23 x 10^-3 m³/mol,4.23 x 10^-3 m³/mol,A,Thermodynamics,Mathematical
+463,At what temperature can both Celsius and Fahrenheit scales be expressed with the same number?,40°C,12°C,-32°C,-40°C,D,Thermodynamics,Mathematical
+3481,The volume of a large container is 480m³ and its temperature is 293K. If the temperature rises to 298K; what percentage of the air will escape? (The pressure remains unchanged),1.71%,48.71%,20.17%,None of them,A,Thermodynamics,Mathematical
+2917,In a reversible process; the entropy will-,increase,decrease,not change,be zero,C,Thermodynamics,Theoretical
+1457,In reality; what is the maximum possible efficiency of an engine?,25%,100%,20%,50%,D,Thermodynamics,Theoretical
+2606,Which of the following comments is not correct for a thermocouple?,For a specific set of thermocouples; the neutral temperature is constant.,Neutral temperature does not depend on the temperature of the cold junction.,Temperature of inversion does not depend on the temperature of the cold junction.,At the neutral temperature; the maximum thermo-e.m.f is obtained.,D,Thermodynamics,Theoretical
+3439,An object at 800K temperature is radiating energy. To make the radiation 16 times greater; to what temperature must it be raised?,1600°C,1600K,3200°C,3200K,B,Thermodynamics,Mathematical
+2676,An engine operates between 327°C and 27°C. What is its efficiency?,92%,0%,100%,50%,D,Thermodynamics,Mathematical
+2029,A gas has a pressure of 100 Pascals and a volume of 2 m³. What is the work done by the gas?,200 J,150 J,300 J,250 J,A,Thermodynamics,Mathematical
+304,To get work; heat must be supplied - this is found?,From the 1st law of thermodynamics,From the 2nd law of thermodynamics,From the 3rd law of thermodynamics,From Joule's law,D,Thermodynamics,Theoretical
+2316,If the temperature of a gas increases from 900 K to 1800 K; by what factor does the pressure increase?,2 times,3 times,4 times,1 time,A,Thermodynamics,Reasoning
+1369,At constant pressure; the temperature and volume of a gas are 30°C and 10L respectively. If the temperature is doubled on the Celsius scale; by what factor will its volume become?,1.5,0.5,2,1.1,D,Thermodynamics,Mathematical
+1395,If work is done by the gas —,volume increases,mass increases,temperature remains constant,mass decreases,A,Thermodynamics,Theoretical
+1171,The coefficient of performance of a refrigerator is 2. It absorbs 250J of heat from the cold reservoir per cycle. How much heat will the refrigerator reject to the hot reservoir per cycle?,500 J,125 J,252 J,375 J,D,Thermodynamics,Mathematical
+2929,If 20 g of water at 27°C is mixed with water at 50°C; what will be the final temperature?,6.21 J/kg,2.61 J/kg,0.62 J/kg,3.21 J/kg,A,Thermodynamics,Mathematical
+825,Which is correct for an adiabatic process?,The temperature of the system remains constant,In this process PV=K,The adiabatic curve is steeper than the isothermal curve,It is a slow process,C,Thermodynamics,Definition
+1798,What does Boyle's law explain?,The relationship between pressure and volume,The relationship between temperature and volume,The relationship between pressure and temperature,The relationship between density and pressure,A,Thermodynamics,Theoretical
+685,At the same temperature; it feels more uncomfortable in Kuakata than in Sylhet because --,Sylhet's altitude from sea level is higher than Kuakata's,Sylhet is far from the sea,Sylhet is farther from the equator,None of these,B,Thermodynamics,Reasoning
+288,To what temperature in oC must 2kg of water at 60oC be heated for the change in entropy to be 952.86 JK?1?,90oC,92oC,100oC,95oC,C,Thermodynamics,Mathematical
+2091,The change of state of a substance is a—,Physical change,Chemical change,Physical-chemical change,None of these,A,Thermodynamics,Definition
+2561,If a certain amount of dry air at normal temperature and pressure is compressed at a constant temperature to half its volume; what will be the final pressure?,2.02×10^2 Nm^-2,2.02×10^3 Nm^-2,2.02×10^4 Nm^-2,2.02×10^5 Nm^-2,D,Thermodynamics,Mathematical
+1799,What does Charles's law explain?,The relationship between temperature and volume,The relationship between pressure and volume,The relationship between pressure and temperature,The relationship between density and temperature,A,Thermodynamics,Theoretical
+1154,The temperature which is equal on both Fahrenheit and Celsius scales-,100oC,273oC,0oC,-40oC,D,Thermodynamics,Mathematical
+2232,What is the specific heat capacity of water in Joules/kg·°C?,4186,2000,3000,5000,A,Thermodynamics,Definition
+1312,The area of a tungsten lamp is 0.3 cm2 and it is radiating light at a temperature of 3000 K. What is the rate of radiated energy?,138.51 W,356.62 W,46.17 W,342.19 W,A,Thermodynamics,Mathematical
+2663,Which is true for the change in entropy in a reversible process?,ΔS > 0,ΔS < 0,ΔS = 0,ΔS ≥ 0,C,Thermodynamics,Theoretical
+2218,What is the enthalpy of combustion for an ideal gas?,Positive,Negative,Zero,Indefinite,B,Thermodynamics,Theoretical
+1013,Which of the following is not a characteristic of unsaturated vapor?,Unsaturated vapor is in equilibrium with the liquid,Can be converted to saturated vapor by lowering the temperature,Can be formed in any enclosed or open space,Obeys Boyle's law,A,Thermodynamics,Theoretical
+1606,What happens to the pressure of a gas when the temperature increases?,Increases,Decreases,Remains unchanged,Becomes zero,A,Thermodynamics,Theoretical
+1494,If three objects are in thermal equilibrium; which of the following quantities will be the same?,Mass,Potential energy,Internal energy,Temperature,D,Thermodynamics,Definition
+2102,Which is hecto?,10^2,10^3,10^1,10^6,A,Units and Dimensions,Definition
+39,Electron-volt is the unit of what-,Work,Charge,Current,Potential difference,A,Units and Dimensions,Definition
+1467,The dimension of electric potential is-,ML2T-3A-1,MLTA,MLT-3A-1,ML-1T-1A,A,Units and Dimensions,Definition
+2049,Which of the following is Ampere?,Ampere,Volt,Ohm,Henry,A,Units and Dimensions,Definition
+241,Which is a dimensionless quantity?,Angle,Strain,Solid angle,All of them,D,Units and Dimensions,Theoretical
+1705,What is the unit of acceleration?,m/s,m/s²,m²/s,m²/s²,B,Units and Dimensions,Definition
+2050,Which is dimensionless?,Electric,Mechanical,Dynamics,,D,Units and Dimensions,Definition
+2046,Which is kilo?,10^3,10^6,10^9,10^12,A,Units and Dimensions,Definition
+1713,What is the unit of density of a liquid?,kg/m³,kg/m²,g/cm³,kg/m,A,Units and Dimensions,Definition
+290,If A=BnCm and the dimensions of A; B and C are LT; L2T-1 and LT2 respectively; then what will be the values of n and m?,"2/3, 1/3","2,3","4/5, -1/5","1/5, 3/5",D,Units and Dimensions,Mathematical
+2960,1 e.m.u (Electromagnetic Unit) = how many amperes?,10A,1/10A,1/100A,1/1000A,A,Units and Dimensions,Definition
+1184,Which is the dimension of torque?,[ML2T-2],[MLT-2],[M2LT-2],[ML-2T2],A,Units and Dimensions,Mathematical
+2110,Which is a fundamental unit?,Meter,Newton,Joule,Watt,A,Units and Dimensions,Theoretical
+3348,What is the dimension of energy?,MLT⁻²,ML²T⁻¹,M²LT⁻²,ML²T⁻²,D,Units and Dimensions,Theoretical
+528,The S.I. unit for the amount of substance is-,Ampere,Candela,Mole,Kilogram,C,Units and Dimensions,Definition
+11,1 atm is equal to how many N/m²?,1,1.014 × 10?,1.013548 × 10-5,1013548,B,Units and Dimensions,Definition
+2055,Which is the S.I. unit?,cm,m,mm,km,B,Units and Dimensions,Definition
+841,Which pair of quantities has the same dimension?,Force and Work,Work and Torque,Force and Momentum,None of these,B,Units and Dimensions,Comparison
+3123,Which physical quantity has the unit kgm²/s²?,Power,Force,Energy,Pressure,B,Units and Dimensions,Theoretical
+1723,What is the unit of electrical energy?,Joule,Watt,Volt,Ampere,A,Units and Dimensions,Definition
+2784,What is the dimension of frequency?,T⁻¹,LT⁻¹,L⁻¹T⁻²,LT⁻³,A,Units and Dimensions,Definition
+3331,Which is the dimensional equation for surface tension?,ML⁻¹T⁻²,MT⁻²,MLT²,MT²,B,Units and Dimensions,Theoretical
+324,Which is the dimensional equation of the coefficient of viscosity?,ML-1T-1,MLT-2,M2L2T,None of these,A,Units and Dimensions,Theoretical
+1503,The sides of a parallelogram are A ⃗ = 2i ̂ + j ̂ and B ⃗ = i ̂ + 2j ̂. What is the area?,3,5,4,6,A,Vectors,Mathematical
+992,A force of 10N is inclined at an angle of 60° with the Y-axis. What is the component of the force along the X-axis?,5,`5sqrt3`,0.5,25c,B,Vectors,Mathematical
+262,If `vecr=xhati+yhatj+2hatk`; what is `vecgrad.vecr`?,1,2,3,4,D,Vectors,Mathematical
+1510,If A ⃗ = 2i ̂ + j ̂ – k ̂ and B ⃗ = i ̂ + 2j ̂ + k ̂; what is |A ⃗ + B ⃗|?,√18,√14,√10,√12,A,Vectors,Mathematical
+1578,If A ⃗ = 3i ̂ + j ̂ – k ̂ and B ⃗ = i ̂ – j ̂ + k ̂; then what is |A ⃗ × B ⃗|?,√12,√18,√24,√6,B,Vectors,Mathematical
+1543,Two forces of 30 N and 40 N act on a particle at an angle of 90°. What is the magnitude of the resultant force?,50 N,60 N,70 N,40 N,A,Vectors,Mathematical
+1950,What is obtained if a non-zero vector is divided by its magnitude?,Null vector,Position vector,Unit vector,Coplanar vector,C,Vectors,Definition
+1978,Which are scalar quantities?,Jogbeg; Work; Velocity,Energy; Acceleration; Jogbeg,Work; Velocity; Energy,Work; Energy; Jogbeg,D,Vectors,Definition
+1565,A vector has a magnitude of 12 and is inclined at an angle of 60° with the X-axis. What is its X-component?,6,10.39,12,8,A,Vectors,Mathematical
+1957,If A ⃗; B ⃗ and C ⃗ are three vector quantities and C ⃗ = A ⃗ × B ⃗; then the direction of C ⃗ will be:,In the direction of A ⃗,In the direction of B ⃗,In the direction perpendicular to both A ⃗ and B ⃗,In the direction parallel to both A ⃗ and B ⃗,C,Vectors,Theoretical
+1522,If A ⃗ = 2i ̂ + j ̂ and B ⃗ = i ̂ + 2j ̂; what is A ⃗ . B ⃗?,4,6,8,2,B,Vectors,Mathematical
+826,If →P=→Q→P=→Q; what is the value of `vecPxx(vecQxxvecP)`?,0,1,P2Q,PA,A,Vectors,Mathematical
+2105,Which is a scalar quantity?,Force,Acceleration,Velocity,Mass,D,Vectors,Theoretical
+1505,A force of 15 N acts on a particle at an angle of 30°. What is the component of the force on the X-axis?,12.99 N,7.5 N,15 N,10 N,A,Vectors,Mathematical
+1006,"`vecA=hati,vecB=2hati+hatk,` What is the angle between vectors `vecA` and `vecB`?",25.12°,26.57°,90.67°,180.25°,B,Vectors,Mathematical
+1547,The angle between two vectors is 45° and their magnitudes are 2 and 3. What is the scalar product?,4.24,6,3,8.48,A,Vectors,Mathematical
+195,Which is an example of a scalar product?,Work,Torque,Force,Angular momentum,A,Vectors,Application
+705,For what value of a will the vectors ?A=2ˆi+aˆj+ˆk and ?E=4ˆi?2ˆj?2ˆk be perpendicular to each other?,3,5,9,11,A,Vectors,Mathematical
+1540,If A ⃗ = i ̂ + j ̂ + k ̂ and B ⃗ = 2i ̂ – j ̂ – k ̂; what is A ⃗ + B ⃗?,3i ̂,i ̂ + 2j ̂,3i ̂ + 2k ̂,3i ̂ – j ̂ – k ̂,A,Vectors,Mathematical
+1317,The magnitudes of two vector quantities are 10 and 15 units respectively. If they are perpendicular to each other; what is their product?,100,125,150,200,C,Vectors,Mathematical
+571,What is the magnitude of the resultant of the two vectors →P=2ˆi+ˆj+ˆk and `vecQ=hati+2hatj-2hatk`?,√19,6,9,19,A,Vectors,Mathematical
+1921,If A ⃗ × B ⃗ = B ⃗ × A ⃗; then what is the angle between them?,π,π/3,π/4,π/2,A,Vectors,Reasoning
+1949,If A ⃗ = –6/7 i ̂ + 3/7 j ̂ + 2/7 k ̂; then the magnitude of A ⃗ is:,7,–7,1,–1,C,Vectors,Mathematical
+1923,If the two adjacent sides of a parallelogram are P ⃗ = 4i ̂ – 4j ̂ + k ̂ and Q ⃗ = 2i ̂ – 2j ̂ – k ̂; what is its area?,6.5 square units,7.5 square units,8.5 square units,9.5 square units,C,Vectors,Mathematical
+1909,Two parallel vectors are acting at a point. Which of the following will be the value of their resultant?,120°,180°,90°,0°,D,Vectors,Theoretical
+390,The magnitude of each of two vector quantities is 10 units. If they act at the same point at an angle of 120° to each other; what will be the magnitude and direction of the resultant?,10 units and 30°,20 units and 60°,10 units and 60°,20 units and 30°,C,Vectors,Mathematical
+1572,If A ⃗ = 2i ̂ + j ̂ and B ⃗ = i ̂ + 2j ̂; then what is A ⃗ × B ⃗?,3 k ̂,–3 k ̂,5 k ̂,–5 k ̂,A,Vectors,Mathematical
+1976,The vectors 2A ⃗ and A ⃗ are inclined at a certain angle to each other. If the first vector is doubled; the magnitude of the resultant increases threefold. What is the angle between the vectors?,180°,90°,45°,0°,B,Vectors,Mathematical
+1988,At what degree angle must two vectors act so that the magnitude of their scalar product and vector product are equal?,90°,0°,45°,180°,C,Vectors,Mathematical
+1584,If A ⃗ = 4i ̂ – j ̂ and B ⃗ = –i ̂ + 4j ̂; then what is |A ⃗ – B ⃗|?,√50,√25,√75,√100,A,Vectors,Mathematical
+444,Given two vectors `vecA=2hati+2hatj-hatk` and `vecB=6hati-3hatj+2hatk`. What will be the magnitude of `(2vecA+3vecB)`?,5√21,4√21,3√21,10√21,A,Vectors,Mathematical
+1593,If the angle between two vectors is 0°; what is A ⃗ . B ⃗?,0,|A ⃗||B ⃗|,1,–1,B,Vectors,Theoretical
+1504,If A ⃗ = 3i ̂ – j ̂ + 2k ̂ and B ⃗ = i ̂ + j ̂ – k ̂; what is A ⃗ . B ⃗?,2,4,0,6,B,Vectors,Mathematical
+1944,If r ⃗ is the position vector; what is its divergence?,1,2,3,4,C,Vectors,Mathematical
+284,The maximum value of the resultant of two vectors is 25 units and the minimum value is 7 units. What are the magnitudes of the two vectors?,"25, 18","14, 7","16, 9",None of these,C,Vectors,Mathematical
+1548,If A ⃗ = 4i ̂ – 2j ̂ and B ⃗ = 2i ̂ + 4j ̂; what is A ⃗ . B ⃗?,0,8,–8,16,A,Vectors,Mathematical
+1496,If A ⃗ = 3i ̂ + 4j ̂ and B ⃗ = 4i ̂ – 3j ̂; what is the value of A ⃗ . B ⃗?,0,12,–12,25,A,Vectors,Mathematical
+1559,A force of 20 N acts on a particle at an angle of 45°. What is the component of the force on the X-axis?,14.14 N,10 N,20 N,17.32 N,A,Vectors,Mathematical
+1530,If A ⃗ = 3i ̂ – j ̂ + k ̂ and B ⃗ = i ̂ + 2j ̂ – k ̂; what is |A ⃗ + B ⃗|?,√18,√14,√10,√12,A,Vectors,Mathematical
+590,"If vector A ⋅ vector B = |A × B|, what is the angle between them?",90°,45°,0°,120°,B,Vectors,Mathematical
+1512,If A ⃗ = 3i ̂ + j ̂ and B ⃗ = i ̂ + 3j ̂; what is A ⃗ × B ⃗?,8 k ̂,–8 k ̂,10 k ̂,–10 k ̂,A,Vectors,Mathematical
+438,If two adjacent sides of a parallelogram are represented by `vecP=hati-hatj+hatk` and `vecQ=hati+hatj-hatk`; find the area of the parallelogram.,2?2,1,?2,4?2,A,Vectors,Mathematical
+1589,The sides of a parallelogram are A ⃗ = 4i ̂ and B ⃗ = 3j ̂. What is the area?,12,9,15,6,A,Vectors,Mathematical
+1993,At what degree angle is the vector j ̂ + 2k ̂ inclined to the X-axis?,0°,45°,90°,None of these,C,Vectors,Reasoning
+1933,Two forces act at an angle of 120°. One of the forces is 10 N; and the magnitude of their resultant is equal to that force. What is the magnitude of the other force?,20 Newton,0 or 10 Newton,15 Newton,5 Newton,B,Vectors,Mathematical
+1917,If a force of magnitude 10 N acts along the X-axis; its component along the Y-axis will be:,10 N,5 N,8.66 N,0 N,D,Vectors,Reasoning
+3133,If a rod of length 45 cm is projected at an angle of 60°; what is its height?,0.32 ms⁻¹,0.42 ms⁻¹,0.52 ms⁻¹,0.62 ms⁻¹,B,Vectors,Mathematical
+1928,If A ⃗ = i ̂ + 2j ̂ + 2k ̂ and B ⃗ = 3i ̂ + 2j ̂ – k ̂; then what is the projection of B ⃗ on A ⃗?,5-Mar,3-May,3-Feb,2-Mar,A,Vectors,Mathematical
+1927,An object is pulled eastward and southward with forces of equal magnitude. What angle will the resultant force make with the west direction?,90°,45°,135°,22.5°,C,Vectors,Mathematical
+1528,If A ⃗ = 3i ̂ – 2j ̂ and B ⃗ = 2i ̂ + 3j ̂; what is A ⃗ . B ⃗?,0,6,–6,12,A,Vectors,Mathematical
+1905,What is the value of j ̂.(2i ̂ – 3j ̂ + [] k ̂)?,2,–3,1,–2,B,Vectors,Mathematical
+399,"If the coordinates of points P and Q are (-3,4,5) and (3,-2,4) respectively, then what is the vector PQ?",3i - 2j + 5k,2j + 9k,12i - 6j - k,6i - 6j - k,D,Vectors,Mathematical
+2570,What is the process of light bending around an edge or corner?,Polarization,Interference,Diffraction,Double refraction,C,Wave Optics,Definition
+1,Diffraction is a special type of—,Polarization,Reflection,Interference,Refraction,C,Wave Optics,Theoretical
+1674,In which type of wave is polarization of light possible?,Transverse,Longitudinal,Both,,A,Wave Optics,Theoretical
+634,______ grating is a technique for analyzing a light source.,Diffraction,Refraction,Reflection,None of these,A,Wave Optics,Application
+353,In Young's double-slit experiment; if the wavelength is doubled; then the fringe width Î² will be-,?/2,2?,3?,?,B,Wave Optics,Reasoning
+1847,How does the intensity of light change with distance?,Inversely proportional to the square,Proportional to the distance,Proportional to the square of the distance,Proportional to the cube of the distance,A,Wave Optics,Theoretical
+307,Fringes were formed at a distance of 0.03 cm from each other on a screen located 1.5 m away. The fourth bright fringe is 1 cm away from the central maximum. Determine the wavelength of the light.,2500 Å,5000 Å,6000 Å,7500 Å,B,Wave Optics,Mathematical
+570,Two parallel slits; separated by a distance s; are illuminated by monochromatic light to obtain an interference pattern on a screen at a distance D from the slits. Let the fringe width be x; if both s and D are doubled; what will be the value of the fringe width?,x/2,x,2x,4x,B,Wave Optics,Mathematical
+123,In Young’s double slit experiment; if the path difference between the two interfering waves is 2×10^-7 m (wavelength 4×10^-7 m); the corresponding phase difference and nature of interference is:,2π,3π/2,π,π/2,C,Wave Optics,Mathematical
+1786,What is the unit of light intensity?,Lux,Joule,Watt,Pascal,A,Wave Optics,Definition
+1094,Two parallel slits separated by a distance s are illuminated by monochromatic light and an interference pattern is obtained on a screen at a distance D from the slits. Let the fringe width be X; if both s and D are doubled; what will be the new fringe width?,X/2,X,2X,4X,B,Wave Optics,Mathematical
+1230,In Young's double-slit experiment; the distance between the two slits is 2mm. Fringes of width 0.295m are formed at a distance of 1m from the slit. Which is the wavelength of the light?,5800Å,5896Å,5900Å,6000Å,C,Wave Optics,Mathematical
+982,What is the process of restricting the vibration of a wave to a specific direction or plane called?,Interference,Polarization,Diffraction,Reflection,B,Wave Optics,Definition
+3056,What is the formula for Path difference (δ)?,λ/2π,2π/λ,λδ/2π,2πδ/λ,A,Wave Optics,Definition
+1481,When a parallel wavefront is incident on a narrow slit of a barrier; diffraction occurs. For which combination of wavelength and slit will the diffraction be maximum?,Large wavelength and narrow slit,Small wavelength and narrow slit,Small wavelength and wide slit,Large wavelength and wide slit,A,Wave Optics,Reasoning
+1434,What is the difference in wavelength between red and violet light on the meter scale?,4.75×10-7m,5.25×10-7m,2.35×10-7m,3.55×10-7m,C,Wave Optics,Theoretical
+870,Which of the following can produce polarized light?,Nicol prism,A crystal,A biprism,A half-wave plate,A,Wave Optics,Theoretical
+1889,How is frequency measured?,Number of vibrations per second,Number of vibrations per minute,Number of vibrations per hour,Number of vibrations per day,A,Waves,Theoretical
+211,If the tension in a stretched string is increased 4 times; by how many times will the frequency increase?,16,4,3,2,D,Waves,Mathematical
+602,Polarization of which of the following waves is not possible?,Light,Water,Radio,Sound,D,Waves,Theoretical
+2787,If the intensity of sound emitted from a mobile phone is 1×10⁻⁵ Wm⁻²; what will be the sound intensity level?,−3 dB,3 dB,−70 dB,70 dB,D,Waves,Mathematical
+2303,The velocity of a wave is 390 m/s and its frequency is 1200 Hz. What is the wavelength?,0.325 meter,0.1625 meter,0.65 meter,0.975 meter,A,Waves,Mathematical
+2239,A wave has an amplitude of 2 meters and a frequency of 5 Hz. What is its energy dependent on?,On the square of the amplitude,On the square of the frequency,On the product of amplitude and frequency,On none of these,A,Waves,Theoretical
+1220,Which is not an example of a transverse wave?,X-ray,Sound wave,Light wave,Wave on a stretched string,B,Waves,Theoretical
+2799,What is the maximum wavelength of a wave produced in a 1.5 m stretched string?,1.5 m,3 m,1 m,0.75 m,B,Waves,Mathematical
+2803,Sound waves are spreading from a point source. How does the intensity of sound at a point change with the distance from the source?,Proportional,Proportional to the square,Inversely proportional,Inversely proportional to the square,D,Waves,Theoretical
+839,When two tuning forks A and B are sounded together; 6 beats are produced per second. When A is slightly filed; the number of beats becomes 4. If the frequency of B is 560 Hz; what is the original frequency of A?,566Hz,564 Hz,556 Hz,554 Hz,D,Waves,Mathematical
+1161,Among the tones present in a note; the frequency of the fundamental tone is,The highest,The lowest,Twice the lowest frequency,Half the highest frequency,B,Waves,Theoretical
+3239,What type of wave is a sound wave?,Longitudinal wave,Transverse wave,Mixed wave,Standing wave,A,Waves,Theoretical
+2794,The frequencies of two tuning forks are 220Hz and 210Hz respectively; if the two are sounded together what will be the number of beats?,220,210,430,10,D,Waves,Mathematical
+1463,The sound of thunder was heard 6s after seeing the light. If the air temperature is 30°C; what is the distance of the cloud? The increase in the speed of sound in air per degree Celsius increase in temperature is 0.6ms-1.,1800m,2100m,1900m,1892m,B,Waves,Mathematical
+3243,What is the frequency of a wave with a wavelength of 5.8 m and a velocity of 145 ms⁻¹?,30 Hz,80 Hz,25 Hz,50 Hz,B,Waves,Mathematical
+2903,Which wave does not show polarization?,X-ray,Sound wave,Radio wave,Ordinary light,B,Waves,Theoretical
+1047,What is the locus of points with the same phase on a wave called?,Wave crest,Wavefront,Wave trough,Wave intensity,B,Waves,Definition
+2644,If the velocity of a wave is 340 m/s and its frequency is 170 Hz; what is its wavelength?,0.5 m,1 m,2 m,3 m,B,Waves,Mathematical
+1631,In which medium is the speed of sound highest?,In a dense medium,In a liquid medium,In a gaseous medium,In a vacuum,A,Waves,Theoretical
+1218,The frequencies of two tuning forks are 260Hz and 255Hz respectively. After what time interval will they produce a beat?,0.1s,0.2s,0.5s,0.6s,B,Waves,Mathematical
+2283,The velocity of a wave is 370 m/s and the frequency is 1000 Hz. What is the wavelength?,0.37 meters,0.185 meters,0.74 meters,1.11 meters,A,Waves,Mathematical
+245,What can be the apparent change in Doppler frequency?,Only more,Only less,Both less/more,None of these,C,Waves,Theoretical
+2600,What type of sound is produced by an earthquake?,Audible wave,Infrasonic wave,Ultrasonic wave,Electromagnetic wave,B,Waves,Theoretical
+1820,What does the Doppler effect depend on?,The relative motion of the source and observer,Mass of the source,Mass of the observer,Energy of the source,A,Waves,Theoretical
+1157,If the tension in a stretched wire is increased 4 times; how many times will the frequency increase?,16,4,2,3,C,Waves,Mathematical
+1122,The wavelength of the first of two tuning forks is twice that of the second. If the frequency of the first is 128; what is the frequency of the second?,128,256,512,none,B,Waves,Mathematical
+1633,To which is the Doppler effect applicable?,Both light and sound,Only light,Only sound,Electric wave,A,Waves,Theoretical
+1213,The distance between a node and the next antinode is-,λ,λ/2,λ/4,2λ,C,Waves,Theoretical
+2289,What is the relationship between waves if the phase difference of a wave is 120°?,120° phase,90° phase,Opposite phase,In phase,A,Waves,Theoretical
+2324,The velocity of a wave is 410 m/s and its frequency is 1400 Hz. What is the wavelength?,0.29286 meter,0.14643 meter,0.58571 meter,0.87857 meter,A,Waves,Mathematical
+126,What is the sound intensity level of a normal conversation?,40 dB,50 dB,60 dB,70 dB,C,Waves,Application
+286,The musical interval of two tones with frequencies f1 and f2 is-,f1x f2,f1:f2,f1-f2,f2 Ã·f1,B,Waves,Definition
+1016,What is the ratio of faint and strong sounds?,106,1013,1011,1015,B,Waves,Theoretical
+1330,Based on the direction of energy flow; how many types of waves are there?,2 types,3 types,4 types,5 types,B,Waves,Theoretical
+2615,If the tension in a stretched wire is quadrupled; keeping its length and mass constant-,frequency will be quadrupled,frequency will be doubled,frequency will be tripled,None of the above,B,Waves,Mathematical
+2122,A wave has a wavelength of 4 meters and a frequency of 5 Hz. What is the velocity of the wave?,20 m/s,10 m/s,30 m/s,40 m/s,A,Waves,Mathematical
+2340,What is the relationship between waves if their phase difference is 240°?,120° phase,60° phase,Opposite phase,300° phase,A,Waves,Theoretical
+2351,If the phase difference of a wave is 330°; what is the relationship between the waves?,30° phase,150° phase,Opposite phase,60° phase,A,Waves,Theoretical
+2793,If the sound power emitted from a source changes from 10 mW to 1000 mW; how much will the sound intensity level change?,20 dB,30 dB,100 dB,None of these,A,Waves,Mathematical
+1408,What is the velocity of a particle at the node of a stationary wave?,Zero,Maximum,Minimum but not zero,None of these,A,Waves,Theoretical
+2655,If the mass of an object is 2 kg and its height is 5 m; what will be its potential energy?,10 J,20 J,50 J,100 J,D,Work and Energy,Mathematical
+274,An object of mass 0.5kg is dropped vertically from a height of 64m. The kinetic energy of the object at the moment of touching the ground will be -,31.36J,313.6J,320J,400J,B,Work and Energy,Mathematical
+3138,What is the formula for the kinetic energy (K.E.) of an object?,½ Iω²,½ Io²,Io²,½ I²,A,Work and Energy,Definition
+2162,An object is moving at a speed of 55 m/s and its mass is 8 kg. What is the kinetic energy?,1210 J,1200 J,1250 J,1300 J,A,Work and Energy,Mathematical
+1399,A car is moving at a speed of 10 ms-1. At what speed must it move for its kinetic energy to be doubled?,12 ms-1,40 ms-1,20 ms-1,14 ms-1,D,Work and Energy,Mathematical
+3136,If a body is dropped from a height of 20 m; what will be its potential energy?,6.53 H.P,5.73 H.P,6.43 H.P,1.67 H.P,B,Work and Energy,Mathematical
+1070,At what angle between force and displacement does the value of work become zero?,0°,45°,90°,180°,C,Work and Energy,Theoretical
+250,According to the work-energy theorem; the work done on an object is equal to the change in its?,Kinetic energy,Angular momentum,Linear momentum,Linear acceleration,A,Work and Energy,Theoretical
+2290,An object of mass 35 kg is moving with a velocity of 6 m/s. What is its kinetic energy?,630 Joules,315 Joules,1260 Joules,157.5 Joules,A,Work and Energy,Mathematical
+2280,An object of mass 30 kg is moving with a velocity of 5 m/s. What is its kinetic energy?,375 Joules,187.5 Joules,750 Joules,93.75 Joules,A,Work and Energy,Mathematical
+3351,What is the value of the angle between the applied force and displacement when the amount of work is maximum?,90°,45°,0°,180°,C,Work and Energy,Theoretical
+297,An object of mass 500g is moved a distance of 1m from rest by applying a force of 2N. What is the amount of work done on the object?,9.8 J,0.5 J,2 J,4.9 J,C,Work and Energy,Mathematical
+1703,Which is a conservative force?,Gravitation,Friction,Magnetic,Both A and D,D,Work and Energy,Theoretical
+149,A bullet loses 1/20 of its velocity while penetrating a wooden plank; how many such planks will be needed to stop the bullet?,10,11,20,21,B,Work and Energy,Mathematical
+3151,What is the work in kW if a motor lifts a 3600 N mass to a height of 60 m?,1,2,3,4,A,Work and Energy,Mathematical
+2341,An object of mass 70 kg is moving with a velocity of 12 m/s. What is its kinetic energy?,5040 Joule,2520 Joule,10080 Joule,630 Joule,A,Work and Energy,Mathematical
+1421,A person weighing 110 Ib runs up a 10 ft high staircase in 5 seconds. What is the person's horsepower?,0.6 HP,0.8 HP,0.4 HP,0.3 HP,C,Work and Energy,Mathematical
+2300,An object of mass 40 kg is moving with a velocity of 7 m/s. What is its kinetic energy?,980 Joules,490 Joules,1960 Joules,245 Joules,A,Work and Energy,Mathematical
+3449,If a ball falls from a height of 80m and 20% of its energy is lost on impact with the floor; the height the ball will bounce back to is–,60m,64m,68m,72m,B,Work and Energy,Mathematical
+2467,If 50 Joules of work is done in 10 seconds; what is the power?,2 Watt,5 Watt,10 Watt,20 Watt,A,Work and Energy,Mathematical
+2487,A bullet loses half its velocity after penetrating 3 cm into a target. Assuming the resistance of the target is uniform; how much further will it penetrate?,1cm,1m,2 cm,2 m,A,Work and Energy,Mathematical
+2848,If an object of mass 100 kg is lifted at a velocity of 10 cms⁻¹; what is the required power in watts?,0.98,10,98,9800,C,Work and Energy,Mathematical
+1333,A bullet of mass 1 gm is fired by compressing a spring with a spring constant of 200 Nm-1 by 2 cm. What is the velocity of the bullet?,4 ms-1 ,4√5 ms-1 ,√5ms-1 ,2√5ms-1 ,B,Work and Energy,Mathematical
+756,If the velocity of a neutron with a mass of 1.67×10-27kg is 4×10^4 m/s; what is the amount of its kinetic energy-,8.35eV,8.7eV,16.7eV,None of these,A,Work and Energy,Mathematical
+3143,If a pump does 0.06 m of work to lift 1200 L of water; what is the required work?,1.564,1.664,1.764,1.864,C,Work and Energy,Mathematical
+2321,An object of mass 50 kg is moving with a velocity of 9 m/s. What is its kinetic energy?,2025 Joule,1012.5 Joule,4050 Joule,506.25 Joule,A,Work and Energy,Mathematical
+1382,15 watts of power means -,15 Joules of work in 1 second,5 Joules of work in 3 seconds,3 Joules of work in 5 seconds,1 Joule of work in 15 seconds,A,Work and Energy,Definition
+2145,An object has a velocity of 25 m/s and a mass of 8 kg. What is its kinetic energy?,250 J,200 J,300 J,350 J,A,Work and Energy,Mathematical
+525,The capacity to do one joule of work in one second is called?,1 Watt,1 Joule,1 Volt,1 Newton,A,Work and Energy,Definition
+2190,An object is moving at a speed of 80 m/s and its mass is 10 kg. What is the kinetic energy?,3200 J,3000 J,3400 J,3600 J,A,Work and Energy,Mathematical
+2352,An object has a mass of 80 kg and is moving at a velocity of 13 m/s. What is its kinetic energy?,6760 Joule,3380 Joule,13520 Joule,845 Joule,A,Work and Energy,Mathematical
+1555,The displacement of a particle is r ⃗ = 2i ̂ – j ̂ + k ̂ m and the force is F ⃗ = i ̂ + j ̂ – k ̂ N. What is the work done?,0 J,2 J,4 J,–2 J,A,Work and Energy,Mathematical
+405,The magnitude of a car's momentum is equal to its kinetic energy. What is the velocity of the car?,5 ms-1,0.5 ms-1,2 ms-1,4 ms-1,C,Work and Energy,Mathematical
+3164,The potential energy in a force field is related to which quantity?,Force,Mass,Acceleration,Height,D,Work and Energy,Theoretical
+2537,A lift of 500 kg mass can carry a 300 kg load. A frictional force of 1000 N opposes its upward motion. The minimum power required to lift it upwards at a constant velocity of 3ms-1 is-,1234 W,7688 W,26520 W,23456 W,C,Work and Energy,Mathematical
+3159,By how much will the kinetic energy of a car decrease when it slows from 40 km/h to 20 km/h?,5.0×10⁵ J,1.0×10⁵ J,2.0×10⁵ J,3.0×10⁵ J,B,Work and Energy,Mathematical
+300,A rifle bullet penetrates a plank. If the velocity of the bullet is tripled; how many planks of the same thickness will it penetrate?,9,3,6,12,A,Work and Energy,Reasoning
+3158,What is the kinetic energy of a 1620 kg car moving at a speed of 60 km/h?,1.0×10⁵ J,3.0×10⁵ J,8.0×10⁵ J,0.5×10⁵ J,A,Work and Energy,Mathematical
+1515,The displacement of a particle is r ⃗ = 2i ̂ + j ̂ – k ̂ m and the force is F ⃗ = i ̂ – j ̂ + k ̂ N. What is the work done?,0 J,2 J,4 J,–2 J,A,Work and Energy,Mathematical
