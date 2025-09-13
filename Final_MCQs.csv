@@ -77,7 +77,7 @@
 76,What is the condition for minimum deviation in a prism?,"i1>=i2, r1=r2","i1<ic, r1>r2","i1=i2, r1=r2","i1<i2, r1=r2",C,Ray Optics,Theoretical
 77,If the measured radius of a circle is ( 5 ± 0.2%) cm; what is the percentage error in the measurement of its area?,8%,0.50%,0.40%,0.20%,A,Units and Dimensions,Mathematical
 78,If the phase difference between two points of a wave is 4?; the path difference will be-,λ/2,λ/4,2λ,4λ,C,Waves,Mathematical
-79,Who prorogues the session of the Jatiya Sangsad (National Parliament) of Bangladesh?,Deputy Speaker,Speaker,President,Prime Minister,C,Miscellaneous,Miscellaneous
+79,Two spherical bodies of masses 5 kg and 10 kg are placed 2 m apart in vacuum. If G = 6.67×10^-11 Nm²/kg²; what is the magnitude of the gravitational force between them?,1.67×10^-10 N,3.34×10^-10 N,5.00×10^-10 N,6.67×10^-10 N,B,Gravitation,Mathematical
 80,What is the moment of inertia of a rod of mass m and length l about an axis parallel to the perpendicular axis passing through its center of mass and at a distance of `l/4`?,7/48 ml2,1/3ml2,19/48ml2,19/49ml2,A,Rotational Motion,Mathematical
 81,Which of the following is the simplest number system?,Octal system,Hexadecimal system,Decimal system,Binary system,D,Miscellaneous,Miscellaneous
 82,At 14°C; if both the pressure and temperature of a medium are increased 4 times; the speed of sound will increase by -,200%,114%,14.60%,7%,D,Waves,Mathematical
@@ -351,7 +351,7 @@
 350,The proponent of the electromagnetic wave theory of light is-,Max Planck,Maxwell,Huygens,Einstein,B,Electromagnetic Waves,Historical
 351,4.2 J is equal to how many calories?,1,2,4,8,A,Thermodynamics,Theoretical
 352,If ?A=2ˆi+aˆj+ˆk and ?B=?2ˆi+ˆj?2ˆk are perpendicular to each other; then what is the value of a?,-4,-6,6,-2,C,Vectors,Mathematical
-353,In Young's double-slit experiment; if the wavelength is doubled; then the fringe width Î² will be-,?/2,2?,3?,?,B,Wave Optics,Reasoning
+353,In Young's double-slit experiment; if the wavelength is doubled; then the fringe width β will be-,β/2,2β,3β,β,B,Wave Optics,Reasoning
 354,An object weighing 50N is charged with 6C. If the object is placed in a uniform vertical electric field and remains stationary; what is the electric field intensity?,300 NC?1,0.85 NC?1,12.33 Vm?1,8.33 Vm?1,D,Electrostatics,Mathematical
 355,In Young's double-slit experiment; the distance between the slits is d=2mm; the distance from the slit to the screen is D=104 mm; the fringe width is x=0.3mm.,5.9×10-7m,1.2×10-7m,5.9×10-7mm,1.5×10-7mm,B,Wave Optics,Mathematical
 356,If 6 A of current flows through a circular coil of 20 turns and 3 cm radius; the value of the magnetic moment is-,`20 × 6 × 3 × 10^-4`,`20 × 6 × 3.14 × 9× 10^-4`,`20 × 6 × 3.14 ×3 × 10^-4`,`20 × 6 × 9 × 10^-4`,B,Magnetism,Mathematical
@@ -862,7 +862,7 @@
 861,In a uniform electric field; the potential difference between two points 50 cm apart is 200 V; what is the intensity of the electric field?,900 Vm?1,400Vm?1,200 Vm?1,600Vm?1,B,Electrostatics,Mathematical
 862,For which of the following is the temperature coefficient of resistance; α; positive?,Silicon,Aluminium,Carbon,Thermistor,B,Current Electricity,Theoretical
 863,Using a simple pendulum; the value of g at a certain place was found to be 10ms-2; If the actual value of g at that place is 9.81 ms-2; what is the percentage error of the measurement?,19.36%,19%,1.93%,0.19%,C,Experimental Physics,Mathematical
-864,The amplitude of a particle oscillating at a frequency of 5Hz is 45cm; What is its velocity when the particle's displacement is 15cm?,14.67 ms?1,13.33 ms?1,6.66 ms?1,15.34 ms?1,B,Oscillations,Mathematical
+864,The amplitude of a particle oscillating at a frequency of 5Hz is 45cm; What is its velocity when the particle's displacement is 15cm?,14.67 ms−1,13.33 ms−1,6.66 ms−1,15.34 ms−1,B,Oscillations,Mathematical
 865,What is the inverse quantity of the bulk modulus?,Poisson's ratio,Compressibility,Young's modulus,Rigidity modulus,B,Properties of Matter,Definition
 866,If an object is thrown vertically upwards with a velocity of 9.8 m/s; what is the maximum height it will reach?,9.8 m,2.5 m,4.9 m,3.9 m,C,Kinematics,Mathematical
 867,The value of gravitational intensity on the Earth's surface is g; If the density of a hypothetical planet is equal to the density of the Earth and its radius is double; what would be the value of gravitational intensity on the surface of that planet?,g,8g,3g,2g,D,Gravitation,Mathematical
